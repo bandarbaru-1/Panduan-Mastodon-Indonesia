@@ -21,15 +21,15 @@ Atau mungkin, teman-teman berpikir untuk hapus akun? Mungkin teman-teman merasa 
 
 Baik, di beranda, klik ikon pengaturan -> klik menu -> klik *Akun (Account)* -> *scroll* ke bawah, di bagian *Hapus akun (Delete account)*, klik ***memproses ini (proceed here)***.
 
-<img src="../assets/23-01.jpg" width="30%" />
-<img src="../assets/23-02.jpg" width="30%" />
-<img src="../assets/23-03.jpg" width="30%" />
-<img src="../assets/23-04.jpg" width="30%" />
-<img src="../assets/23-05.jpg" width="30%" />
+<img src="../assets/23-pic01.jpg" width="30%" />
+<img src="../assets/23-pic02.jpg" width="30%" />
+<img src="../assets/23-pic03.jpg" width="30%" />
+<img src="../assets/23-pic04.jpg" width="30%" />
+<img src="../assets/23-pic05.jpg" width="30%" />
 
 Perhatikan catatannya: akun yang telah dihapus tidak dapat diaktifkan kembali, nama pengguna kamu tidak dapat lagi digunakan ketika kamu mendaftar kembali, seluruh data kamu di Mastodon terhapus, namun data kamu mungkin masih tersimpan di peladen lain (terutama jika peladen itu menggunakan sistem yang berbeda dari Mastodon).
 
-<img src="../assets/23-06.jpg" width="30%" />
+<img src="../assets/23-pic06.jpg" width="30%" />
 
 Jika sudah, masukkan kata sandi, dan klik ***Hapus akun (Delete account)***.
 
