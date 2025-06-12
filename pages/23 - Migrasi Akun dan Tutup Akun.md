@@ -21,11 +21,11 @@ Atau mungkin, teman-teman berpikir untuk hapus akun? Mungkin teman-teman merasa 
 
 Baik, di beranda, klik ikon pengaturan -> klik menu -> klik *Akun (Account)* -> *scroll* ke bawah, di bagian *Hapus akun (Delete account)*, klik ***memproses ini (proceed here)***.
 
-<img src="../assets/23-pic01.jpg" style="display: inline-block" width="30%"/>
-<img src="../assets/23-pic02.jpg" style="display: inline-block" width="30%"/>
-<img src="../assets/23-pic03.jpg" style="display: inline-block" width="30%"/>
-<img src="../assets/23-pic04.jpg" style="display: inline-block" width="30%"/>
-<img src="../assets/23-pic05.jpg" style="display: inline-block" width="30%"/>
+<img src="../assets/23-pic01.jpg" style="display:inline-block; width:30%; margin:5px;"/>
+<img src="../assets/23-pic02.jpg" style="display:inline-block; width:30%; margin:5px;"/>
+<img src="../assets/23-pic03.jpg" style="display:inline-block; width:30%; margin:5px;"/>
+<img src="../assets/23-pic04.jpg" style="display:inline-block; width:30%; margin:5px;"/>
+<img src="../assets/23-pic05.jpg" style="display:inline-block; width:30%; margin:5px;"/>
 
 Perhatikan catatannya: akun yang telah dihapus tidak dapat diaktifkan kembali, nama pengguna kamu tidak dapat lagi digunakan ketika kamu mendaftar kembali, seluruh data kamu di Mastodon terhapus, namun data kamu mungkin masih tersimpan di peladen lain (terutama jika peladen itu menggunakan sistem yang berbeda dari Mastodon).
 
