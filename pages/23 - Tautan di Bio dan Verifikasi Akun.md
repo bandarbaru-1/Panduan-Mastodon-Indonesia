@@ -4,11 +4,19 @@ Mastodon memiliki pendekatan yang berbeda mengenai verifikasi akun. Tidak sepert
 
 Mastodon tidak seperti itu. Bahkan akun resmi Eugene Rochko (pendiri & pencipta Mastodon) juga tidak memiliki tanda centang biru atau yang menunjukkan tanda verifikasi di samping namanya.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/23-pic01.jpg" width="30%" />
+  </div>
+</div>
 
 Namun, jika kita melihat akun beliau, tepat di bagian tautan di bio beliau terdapat indikator berwarna hijau.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/23-pic02.jpg" width="30%" />
+  </div>
+</div>
 
 Ini menunjukkan bahwa pada tautan tersebut, beliau memasukkan beberapa potongan kode agar tautan tersebut mendapat indikator centang hijau pada halaman profilnya. Bila kita menambahkan tautan, namun tidak menambahkan potongan kode tsb., maka tidak ada indikator centang hijau pada tautan tersebut.
 
@@ -16,25 +24,52 @@ Bagaimana menemukan potongan kode tsb.?
 
 Mari kita ke beranda -> klik ikon pengaturan -> klik ikon menu -> pilih *Profil (Public profile)* -> *scroll* ke bawah, kita akan menemukan kolom *Metadata profil (Extra fields)*.
 
+<div align="center">
+  <div>
+    <img src="../assets/23-pic03.jpg" width="30%" />
+    <img src="../assets/23-pic04.jpg" width="30%" />
+    <img src="../assets/23-pic05.jpg" width="30%" />
+    <img src="../assets/23-pic06.jpg" width="30%" />
+    <img src="../assets/23-pic07.jpg" width="30%" />
+  </div>
+</div>
+
 Teman-teman bisa masukkan *label*-nya adalah: "Blog", "Website", atau apapun itu. Lalu *konten (content)*-nya adalah alamat website yang kita miliki. **Alamat website mesti diawali** **`https://`**, karena jika tidak, maka website tsb. tidak akan ditampilkan sebagai tautan yang dapat diklik.
 
 Jika sudah, scroll ke bawah, lalu klik *Simpan perubahan (Save changes)*.
 
-[pictures]
+<div align="center">
+  <div>
+    <img src="../assets/23-pic08.jpg" width="30%" />
+  </div>
+</div>
 
 #
 
-Setelah kita memasukkan tautan kita di bio, dan ingin memberikan verifikasi agar tautan tersebut terdapat indikator berwarna hijau, klik Verifikasi *(Verification)*.
+Setelah kita memasukkan tautan kita di bio, dan ingin memberikan verifikasi agar tautan tersebut terdapat indikator berwarna hijau, klik *Verifikasi (Verification)*.
 
-[pictures]
+
+<div align="center">
+  <div>
+    <img src="../assets/23-pic09.jpg" width="30%" />
+  </div>
+</div>
 
 Scroll bawah sedikit, nah di sini kita akan menemukan potongan kode yang kamu dapat tempelkan ke kode sumber website-mu atau blog-mu.
 
-[pictures]
+<div align="center">
+  <div>
+    <img src="../assets/23-pic10.jpg" width="30%" />
+  </div>
+</div>
 
 Jika sudah, mungkin tunggu berapa saat dan coba refresh halaman profil-mu, semestinya tautan tersebut berubah menjadi warna hijau.
 
-[pictures]
+<div align="center">
+  <div>
+    <img src="../assets/23-pic11.jpg" width="30%" />
+  </div>
+</div>
 
 Bingung bagaimana memasukkan potongan kode tersebut? Jika teman-teman memiliki website di mana teman-teman bisa memodifikasi kode sumber-nya, teman-teman bisa langsung memasukkan potongan kode tersebut di kode sumber teman-teman.
 
