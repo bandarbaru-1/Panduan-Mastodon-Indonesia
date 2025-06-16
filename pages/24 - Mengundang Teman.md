@@ -8,7 +8,22 @@ Namun pada bagian ini, kamu juga bisa mengundang temanmu dengan mengirim tautan 
 
 Di beranda, klik ikon pengaturan -> klik menu -> klik *Undang orang (Invite people)*
 
+<div align="center">
+  <div>
+    <img src="../assets/24-pic01.jpg" width="30%" />
+    <img src="../assets/24-pic02.jpg" width="30%" />
+    <img src="../assets/24-pic03.jpg" width="30%" />
+  </div>
+</div>
+
 Di sini, kalian bisa menentukan jumlah pemakaian tautan undangan (*Jumlah maksimal penggunaan  - Max number of uses*), durasi tautan (*Kedaluwarsa setelah  - Expire after*), dan juga apakah pengguna yang menggunakan tautan undanganmu akan otomatis mengikuti kamu atau tidak. Setelah itu, klik ***Buat tautan undangan (Generate invite link)***.
+
+<div align="center">
+  <div>
+    <img src="../assets/24-pic04.jpg" width="30%" />
+    <img src="../assets/24-pic05.jpg" width="30%" />
+  </div>
+</div>
 
 Selesai. Kamu bisa salin dan kirim tautan undangan itu ke temanmu yang memerlukan.
 
