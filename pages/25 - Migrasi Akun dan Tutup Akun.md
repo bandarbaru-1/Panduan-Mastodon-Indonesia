@@ -28,7 +28,6 @@ Baik, di beranda, klik ikon pengaturan -> klik menu -> klik *Akun (Account)* -> 
     <img src="../assets/25pic-03.jpg" style="display:inline-block; width:30%; margin:15px;"/>
     <img src="../assets/25pic-04.jpg" style="display:inline-block; width:30%; margin:15px;"/>
     <img src="../assets/25pic-05.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25pic-06.jpg" style="display:inline-block; width:30%; margin:15px;"/>
   </div>
 </div>
 
@@ -37,7 +36,7 @@ Perhatikan catatannya: akun yang telah dihapus tidak dapat diaktifkan kembali, n
 
 <div align="center">
   <div>
-    <img src="../assets/25-pic06.jpg" width="30%" />
+    <img src="../assets/25pic-06.jpg" width="30%" />
   </div>
 </div>
 
