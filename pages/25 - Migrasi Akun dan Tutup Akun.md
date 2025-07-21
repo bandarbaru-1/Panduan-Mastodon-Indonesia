@@ -19,15 +19,15 @@ https://fedi.tips/transferring-your-mastodon-account-to-another-server/ (dalam B
 
 Atau mungkin, teman-teman berpikir untuk hapus akun? Mungkin teman-teman merasa ada defiensi dan mempertimbangkan hal-hal lain untuk meninggalkan dan berhenti menggunakan Mastodon. Daripada meninggalkan Mastodon dengan masih meninggalkan postingan atau gambar yang dapat menjadi masalah privasi bagi kalian di masa mendatang, lebih baik teman-teman menghapus akun sebelum meninggalkan dan berhenti menggunakan Mastodon.
 
-Baik, di beranda, klik ikon pengaturan -> klik menu -> klik *Akun (Account)* -> *scroll* ke bawah, di bagian *Hapus akun (Delete account)*, klik ***memproses ini (proceed here)***.
+Baik, di beranda, klik panel menu -> Klik *Pengaturan (Preferences)* -> Di halaman berikutnya, klik panel menu -> klik *Akun (Account)* -> *scroll* ke bawah, di bagian *Hapus akun (Delete account)*, klik ***memproses ini (proceed here)***.
 
 <div align="center">
   <div>
-    <img src="../assets/25-pic01.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25-pic02.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25-pic03.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25-pic04.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25-pic05.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-01.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-02.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-03.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-04.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-05.jpg" style="display:inline-block; width:30%; margin:15px;"/>
   </div>
 </div>
 
@@ -36,7 +36,7 @@ Perhatikan catatannya: akun yang telah dihapus tidak dapat diaktifkan kembali, n
 
 <div align="center">
   <div>
-    <img src="../assets/25-pic06.jpg" width="30%" />
+    <img src="../assets/25pic-06.jpg" width="30%" />
   </div>
 </div>
 
