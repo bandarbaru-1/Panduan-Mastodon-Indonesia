@@ -6,7 +6,7 @@ Mastodon tidak seperti itu. Bahkan akun resmi Eugene Rochko (pendiri & pencipta 
 
 <div align="center">
   <div>
-    <img src="../assets/23-pic01.jpg" width="30%" />
+    <img src="../assets/23pic-01.jpg" width="30%" />
   </div>
 </div>
 
@@ -14,7 +14,7 @@ Namun, jika kita melihat akun beliau, tepat di bagian tautan di bio beliau terda
 
 <div align="center">
   <div>
-    <img src="../assets/23-pic02.jpg" width="30%" />
+    <img src="../assets/23pic-02.jpg" width="30%" />
   </div>
 </div>
 
@@ -22,15 +22,15 @@ Ini menunjukkan bahwa pada tautan tersebut, beliau memasukkan beberapa potongan 
 
 Bagaimana menemukan potongan kode tsb.?
 
-Mari kita ke beranda -> klik ikon pengaturan -> klik ikon menu -> pilih *Profil (Public profile)* -> *scroll* ke bawah, kita akan menemukan kolom *Metadata profil (Extra fields)*.
+Mari kita ke beranda, klik panel menu -> klik Pengaturan (Preferences) -> di halaman berikutnya, klik panel menu -> pilih *Profil (Public profile)* -> *scroll* ke bawah, kita akan menemukan kolom *Metadata profil (Extra fields)*.
 
 <div align="center">
   <div>
-    <img src="../assets/23-pic03.jpg" width="30%" />
-    <img src="../assets/23-pic04.jpg" width="30%" />
-    <img src="../assets/23-pic05.jpg" width="30%" />
-    <img src="../assets/23-pic06.jpg" width="30%" />
-    <img src="../assets/23-pic07.jpg" width="30%" />
+    <img src="../assets/23pic-03.jpg" width="30%" />
+    <img src="../assets/23pic-04.jpg" width="30%" />
+    <img src="../assets/23pic-05.jpg" width="30%" />
+    <img src="../assets/23pic-06.jpg" width="30%" />
+    <img src="../assets/23pic-07.jpg" width="30%" />
   </div>
 </div>
 
@@ -40,18 +40,18 @@ Jika sudah, scroll ke bawah, lalu klik *Simpan perubahan (Save changes)*.
 
 <div align="center">
   <div>
-    <img src="../assets/23-pic08.jpg" width="30%" />
+    <img src="../assets/23pic-08.jpg" width="30%" />
   </div>
 </div>
 
 #
 
-Setelah kita memasukkan tautan kita di bio, dan ingin memberikan verifikasi agar tautan tersebut terdapat indikator berwarna hijau, klik *Verifikasi (Verification)*.
+Setelah kita memasukkan tautan kita di bio, dan ingin memberikan verifikasi agar tautan tersebut terdapat indikator berwarna hijau. Di halaman pengaturan *Profil (Public Profile)*, klik *Verifikasi (Verification)*.
 
 
 <div align="center">
   <div>
-    <img src="../assets/23-pic09.jpg" width="30%" />
+    <img src="../assets/23pic-09.jpg" width="30%" />
   </div>
 </div>
 
@@ -59,7 +59,7 @@ Scroll bawah sedikit, nah di sini kita akan menemukan potongan kode yang kamu da
 
 <div align="center">
   <div>
-    <img src="../assets/23-pic10.jpg" width="30%" />
+    <img src="../assets/23pic-10.jpg" width="30%" />
   </div>
 </div>
 
@@ -67,7 +67,7 @@ Jika sudah, mungkin tunggu berapa saat dan coba refresh halaman profil-mu, semes
 
 <div align="center">
   <div>
-    <img src="../assets/23-pic11.jpg" width="30%" />
+    <img src="../assets/23pic-11.jpg" width="30%" />
   </div>
 </div>
 
