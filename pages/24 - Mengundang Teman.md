@@ -6,7 +6,7 @@ Rekomendasiku, kamu bisa **menyarankan temanmu untuk bergabung ke peladen lain y
 
 Namun pada bagian ini, kamu juga bisa mengundang temanmu dengan mengirim tautan undangan, agar temanmu bisa bergabung ke peladen yang sedang membatasi registrasi publik atau tidak menerima registrasi publik.
 
-Di beranda, klik ikon pengaturan -> klik menu -> klik *Undang orang (Invite people)*
+Di beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> klik *Undang orang (Invite people)*
 
 <div align="center">
   <div>
