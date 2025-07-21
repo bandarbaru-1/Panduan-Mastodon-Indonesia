@@ -13,6 +13,7 @@ Di beranda, klik ikon pengaturan -> klik menu -> klik *Undang orang (Invite peop
     <img src="../assets/24pic-01.jpg" width="30%" />
     <img src="../assets/24pic-02.jpg" width="30%" />
     <img src="../assets/24pic-03.jpg" width="30%" />
+    <img src="../assets/24pic-04.jpg" width="30%" />
   </div>
 </div>
 
@@ -20,8 +21,8 @@ Di sini, kalian bisa menentukan jumlah pemakaian tautan undangan (*Jumlah maksim
 
 <div align="center">
   <div>
-    <img src="../assets/24pic-04.jpg" width="30%" />
     <img src="../assets/24pic-05.jpg" width="30%" />
+    <img src="../assets/24pic-06.jpg" width="30%" />
   </div>
 </div>
 
