@@ -8,7 +8,7 @@ Individu maupun komunitas yang menyediakan layanan dan mengelola peladen Mastodo
 
 Dengan memanfaatkan donasi dan sponsor terbatas, ini dapat menjamin keberlangsungan sosial media yang sehat, minim akan adanya tekanan komersial, tekanan politik, maupun bias yang disetir oleh pemilik platform.
 
-**Bila kamu merasa layanan Mastodon ini berharga bagimu, dan juga kamu memiliki rezeki lebih, pertimbangkanlah untuk berdonasi** ke Mastodon maupun ke individu atau komunitas yang menyediakan peladen untukmu.
+**Bila kamu merasa layanan Mastodon ini memiliki sebuah nilai yang berharga bagimu, dan juga kamu memiliki rezeki lebih, pertimbangkanlah untuk berdonasi** ke Mastodon maupun ke individu atau komunitas yang menyediakan peladen untukmu.
 
 Informasi donasi dan sponsor ke lembaga Mastodon gGmbH, dapat diakses di link berikut: https://joinmastodon.org/sponsors - Donasi ke Mastodon gGmbH juga termasuk untuk membantu pengelolaan peladen yang dikelola oleh mereka seperti **mastodon.social**.
 
