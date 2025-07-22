@@ -14,7 +14,7 @@ Bila akunmu berada di peladen yang termasuk dalam daftar di atas, dapatkan dikat
 
 Namun bagaimana jika pengguna Threads yang kita cari dan ingin kita ikuti tidak terlihat di Mastodon?
 
-Pastikan pengguna tersebut sudah mengaktifkan fitur Fediverse di akun Threads mereka. Sayangnya, Threads tidak mengaktifkan fitur ini secara default dan perlu diaktifkan manual. Kamu bisa berikan tautan ini ke pengguna Threads: https://help.instagram.com/760878905943039/ agar akun mereka terlihat di Fediverse.
+Pastikan pengguna tersebut sudah mengaktifkan fitur Fediverse di akun Threads mereka. Sayangnya, Threads tidak mengaktifkan fitur ini secara default dan perlu diaktifkan manual. Kamu bisa berikan [tautan ini](https://help.instagram.com/760878905943039/) ke pengguna Threads agar mereka dapat mengikuti panduan tersebut dan akun mereka dapat terlihat di Fediverse/Mastodon.
 
 Bila mereka telah mengaktifkan fitur Fediverse namun akun mereka belum bisa terlihat di Mastodon, maka mintalah mereka untuk mention akunmu melalui Threads, memastikan akun Mastodon-mu juga sudah muncul di Threads.
 
