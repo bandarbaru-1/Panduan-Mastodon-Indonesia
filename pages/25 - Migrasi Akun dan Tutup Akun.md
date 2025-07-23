@@ -21,7 +21,7 @@ Ada caranya! Namun penjelasannya akan terlalu teknis bagimu, dan karena hal itu,
 
 Atau mungkin, kamu berpikir untuk hapus akun? Mungkin kamu merasa ada defiensi dan mempertimbangkan hal-hal lain untuk meninggalkan dan berhenti menggunakan Mastodon. Daripada meninggalkan Mastodon dengan masih meninggalkan postingan atau gambar yang dapat menjadi masalah privasi bagi kamu di masa mendatang, lebih baik kamu menghapus akunmu sebelum meninggalkan dan berhenti menggunakan Mastodon.
 
-Baik, di beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> klik *Akun (Account)* -> *scroll* ke bawah, di bagian *Hapus akun (Delete account)*, klik ***memproses ini (proceed here)***.
+Baik, di beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> klik *Akun (Account)* -> scroll ke bawah, di bagian *Hapus akun (Delete account)*, klik ***memproses ini (proceed here)***.
 
 <div align="center">
   <div>
