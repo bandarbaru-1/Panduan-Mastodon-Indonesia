@@ -3,11 +3,20 @@ Baik di panduan ini, kita akan mempelajari bagaimana menjelajahi linimasa publik
 
 Setidaknya di mastodon.social terdapat 2 linimasa publik: *Trending* & *Feed Yang Sedang Berlangsung/Linimasa Publik (Public Timeline)*.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/16pic-01.jpg" width="30%" />
+    <img src="../assets/16pic-02.jpg" width="30%" />
+  </div>
+</div>
 
 *Trending* adalah linimasa yang berisi postingan-postingan yang sedang ramai di peladen tersebut, yakni di sini adalah mastodon.social. Bukan hanya dari pengguna mastodon.social saja, namun juga dari seluruh peladen yang terhubung dan berjejaring bersama mastodon.social akan tampil di sini.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/16pic-03.jpg" width="30%" />
+  </div>
+</div>
 
 Linimasa ini juga berisi sedikit permainan algoritma, di mana postingan-postingan yang di-like, di-boost (repost atau retweet dalam istilah Twitter) oleh orang yang kita ikuti juga akan tampil di sini.
 
@@ -17,18 +26,27 @@ Linimasa ini sangat didominasi oleh postingan-postingan luar negeri dan bahasa a
 
 *Feed Yang Sedang Berlangsung/Linimasa Publik (Public Timeline)* adalah linimasi yang berisi postingan-postingan yang telah kita set aturannya di pengaturan, bahasa mana yang mau ditampilkan.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/16pic-04.jpg" width="30%" />
+  </div>
+</div>
 
 Terdapat 3 tab:
 - ***Server Ini (This server)***. Postingan yang berasal dari peladen ini saja.
-- ***Server Lain (Other servers)***. Postingan yang berasal dari peladen-peladen yang terhubung dengan mastodon.social, termasuk postingan dari Threads (oleh Instagram) dan juga Bluesky (dari akun yang dijembatani) akan muncul di sini.
+- ***Server Lain (Other servers)***. Postingan yang berasal dari peladen-peladen yang terhubung dengan mastodon.social, termasuk postingan dari [Threads (oleh Instagram)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/21%20-%20Berinteraksi%20Dengan%20Pengguna%20Threads.md) dan juga [Bluesky (dari akun yang dijembatani)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/22%20-%20Berinteraksi%20Dengan%20Pengguna%20Bluesky.md) akan muncul di sini.
 - ***Semua (All)***. Menggabungkan keduanya.
 
 Mengingat mastodon.social adalah peladen utama, sayangnya linimasa publik ini sudah dicemari oleh akun-akun bot yang tidak jelas. Nah sekarang kita akan bersihkan semuanya, masuklah kita ke bagian bisukan & blokir akun.
 
-Pertama klik titik tiga di bagian bawah post, terserah, kamu bisa Bisukan (Mute), Blokir (Blokir), dan Laporkan (Report).
+Pertama klik titik tiga di bagian bawah post, terserah, kamu bisa ***Bisukan (Mute)***, ***Blokir (Blokir)***, dan ***Laporkan (Report)***.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/16pic-05.jpg" width="30%" />
+    <img src="../assets/16pic-06.jpg" width="30%" />
+  </div>
+</div>
 
 ---
 
@@ -46,10 +64,19 @@ Beberapa saran daftar cek mengenai bisu-blokir-lapor):
 
 Dalam melaporkan akun-akun tersebut: kita bisa menggunakan bantuan layanan terjemahan daring (Google Translate, Bing Translator, dsb.) untuk menulis laporan kita ke admin atau moderator peladen.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/16pic-07.jpg" width="30%" />
+  </div>
+</div>
 
 Dalam membisukan akun, kita juga bisa klik *Show options*, dan pilih berapa durasi untuk membisukan akun tsb. dan juga memilih untuk tidak menyembunyikan notifikasi dari akun yang kita bisukan.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/16pic-08.jpg" width="30%" />
+    <img src="../assets/16pic-09.jpg" width="30%" />
+  </div>
+</div>
 
-Namun jika kita overwhelm untuk memblokir satu per satu akun yang tidak jelas, maka saranku adalah untuk menghindari linimasa publik Bahasa Indonesia ini. Kita masih bisa mencari mutual dan postingan-postingan yang menarik melalui akun-akun yang akan saya rekomendasikan.
+Namun jika kita overwhelm untuk memblokir satu per satu akun yang tidak jelas, maka saranku adalah untuk menghindari linimasa publik Bahasa Indonesia ini. Kita masih bisa mencari mutual dan postingan-postingan yang menarik melalui [akun-akun yang saya rekomendasikan di sini](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Kamu%20Ikuti.md).
