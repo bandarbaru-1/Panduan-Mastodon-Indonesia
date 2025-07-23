@@ -10,7 +10,7 @@ Dengan memanfaatkan donasi dan sponsor terbatas, ini dapat menjamin keberlangsun
 
 **Bila kamu merasa layanan Mastodon ini memiliki sebuah nilai yang berharga bagimu, dan juga kamu memiliki rezeki lebih, pertimbangkanlah untuk berdonasi** ke Mastodon maupun ke individu atau komunitas yang menyediakan peladen untukmu.
 
-Informasi donasi dan sponsor ke lembaga Mastodon gGmbH, dapat diakses di link berikut: https://joinmastodon.org/sponsors - Donasi ke Mastodon gGmbH juga termasuk untuk membantu pengelolaan peladen yang dikelola oleh mereka seperti **mastodon.social**.
+Informasi donasi dan sponsor ke lembaga Mastodon gGmbH, dapat diakses di halaman [ini](https://joinmastodon.org/sponsors). Donasi ke Mastodon gGmbH juga termasuk untuk membantu pengelolaan peladen yang dikelola oleh mereka seperti **mastodon.social**.
 
 Informasi donasi ke individu dan komunitas yang menyediakan peladen lainnya (diluar kelola dan kontrol oleh Mastodon gGmbH), silahkan merujuk ke informasi yang telah mereka berikan, atau hubungi pengelola peladen tersebut.
 
