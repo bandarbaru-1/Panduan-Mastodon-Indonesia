@@ -4,7 +4,7 @@ Walaupun Mastodon dan Threads (oleh Instagram) berbeda platform, namun kedua pla
 
 Jika akunmu berada di peladen yang dikelola oleh lembaga Mastodon gGmbH (mastodon.social & mastodon.online) & fedi.my.id, peladen tersebut sudah terfederasi dengan Threads, dan semestinya kita bisa berinteraksi dengan pengguna yang berada di Threads.
 
-Namun sayangnya, tidak semua peladen Mastodon yang dikelola oleh komunitas, ingin terfederasi dengan Threads, atas alasan sederet kontroversi yang dilakukan oleh Meta Platforms, Inc.
+Namun sayangnya, tidak semua peladen Mastodon yang dikelola oleh komunitas, ingin terfederasi dengan Threads, atas alasan [sederet kontroversi](https://www.google.com/search?q=meta+controversies&udm=14) yang dilakukan oleh Meta Platforms, Inc.
 
 Daftar peladen yang memblokir federasi dengan Threads dapat dilihat pada website berikut:
 - https://fba.ryona.agency/?domain=threads.net
