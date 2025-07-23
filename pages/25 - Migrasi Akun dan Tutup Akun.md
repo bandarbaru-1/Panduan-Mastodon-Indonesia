@@ -1,5 +1,5 @@
 # Migrasi Akun dan Tutup Akun
-Adakalanya sebuah peladen Mastodon mengumumkan untuk berhenti beroperasi, sedangkan kamu sudah membangun suatu basis pengikut yang cukup lumayan.
+Adakalanya sebuah peladen Mastodon mengumumkan untuk berhenti beroperasi, sedangkan teman-teman sudah membangun suatu basis pengikut yang cukup lumayan.
 
 Jika terjadi demikian, mungkin kamu bisa berpikir untuk **pindah dan buat akun ke peladen Mastodon lain yang masih aktif dan kembali membangun basis pengikut di sana**. Dan cara ini adalah **cara yang termudah**.
 
@@ -11,7 +11,7 @@ Namun ini juga bukan berarti bahwa peladen mastodon.social juga tidak akan menga
 
 Baik, kembali ke pembahasan migrasi akun: Tetapi ada cara lain. Alih-alih membangun basis pengikut lagi di peladen baru, mengapa tidak basis pengikutmu yang sudah ada juga ikut pindah ke peladen baru?
 
-Sayangnya, cara ini masih terlalu teknis bagi teman-teman. Maka jika teman-teman memilih untuk menggunakan cara ini (dengan catatan, teman-teman mesti dengan cara kerjanya yang kompleks dan siap dengan resiko gagal), penjelesan mengenai ini, akan saya referensikan teman-teman untuk membaca panduan berikut:
+Ada caranya! Namun penjelasannya akan terlalu teknis bagi teman-teman. Karena hal itu, penjelesan mengenai ini, saya akan referensikan teman-teman untuk membaca panduan berikut:
 
 https://fedi.tips/transferring-your-mastodon-account-to-another-server/ (dalam Bahasa Inggris, atau dalam terjemahan ke dalam [Bahasa Indonesia](https://fedi-tips.translate.goog/transferring-your-mastodon-account-to-another-server/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=en-US))
 
@@ -32,7 +32,7 @@ Baik, di beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halam
 </div>
 
 
-Perhatikan catatannya: akun yang telah dihapus tidak dapat diaktifkan kembali, nama pengguna kamu tidak dapat lagi digunakan ketika kamu mendaftar kembali, seluruh data kamu di Mastodon terhapus, namun data kamu mungkin masih tersimpan di peladen lain (terutama jika peladen itu menggunakan sistem yang berbeda dari Mastodon).
+Perhatikan catatannya: **akun yang telah dihapus tidak dapat diaktifkan kembali**, **nama pengguna yang telah dihapus tidak dapat lagi digunakan ketika teman-teman mencoba mendaftar kembali**, seluruh data kamu di Mastodon terhapus, namun data teman-teman mungkin masih tersimpan di peladen lain (terutama jika peladen itu menggunakan sistem yang berbeda dari Mastodon).
 
 <div align="center">
   <div>
