@@ -1,5 +1,5 @@
 # Panduan Sederhana Akun Privat (Private Account)
-Mungkin jika kamu *overwhelm* dengan panduan lengkap mengenai pengaturan yang telah saya jelaskan sebelumnya. Maka saya membuat bagian terpisah panduan sederhana agar akunmu sepenuhnya menjadi akun privat.
+Mungkin jika kamu overwhelm dengan panduan lengkap mengenai pengaturan yang telah saya jelaskan sebelumnya. Maka saya membuat bagian terpisah panduan sederhana agar akunmu sepenuhnya menjadi akun privat.
 
 Di halaman beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> klik *Lainnya (Other)*.
 
