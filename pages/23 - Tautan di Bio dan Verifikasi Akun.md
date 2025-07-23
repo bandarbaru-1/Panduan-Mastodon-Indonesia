@@ -22,7 +22,7 @@ Ini menunjukkan bahwa pada tautan tersebut, beliau memasukkan beberapa potongan 
 
 Bagaimana menemukan potongan kode tsb.?
 
-Mari kita ke beranda, klik panel menu -> klik Pengaturan (Preferences) -> di halaman berikutnya, klik panel menu -> pilih *Profil (Public profile)* -> *scroll* ke bawah, kita akan menemukan kolom *Metadata profil (Extra fields)*.
+Mari kita ke beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> pilih *Profil (Public profile)* -> scroll ke bawah, kita akan menemukan kolom *Metadata profil (Extra fields)*.
 
 <div align="center">
   <div>
@@ -34,7 +34,7 @@ Mari kita ke beranda, klik panel menu -> klik Pengaturan (Preferences) -> di hal
   </div>
 </div>
 
-Teman-teman bisa masukkan *label*-nya adalah: "Blog", "Website", atau apapun itu. Lalu *konten (content)*-nya adalah alamat website yang kita miliki. **Alamat website mesti diawali** **`https://`**, karena jika tidak, maka website tsb. tidak akan ditampilkan sebagai tautan yang dapat diklik.
+Kamu bisa masukkan *label*-nya adalah: "Blog", "Website", atau apapun itu. Lalu *konten (content)*-nya adalah alamat website yang kita miliki. **Alamat website mesti diawali** **`https://`**, karena jika tidak, maka website tsb. tidak akan ditampilkan sebagai tautan yang dapat diklik.
 
 Jika sudah, scroll ke bawah, lalu klik *Simpan perubahan (Save changes)*.
 
@@ -47,7 +47,6 @@ Jika sudah, scroll ke bawah, lalu klik *Simpan perubahan (Save changes)*.
 #
 
 Setelah kita memasukkan tautan kita di bio, dan ingin memberikan verifikasi agar tautan tersebut terdapat indikator berwarna hijau. Di halaman pengaturan *Profil (Public Profile)*, klik *Verifikasi (Verification)*.
-
 
 <div align="center">
   <div>
@@ -71,11 +70,11 @@ Jika sudah, mungkin tunggu berapa saat dan coba refresh halaman profil-mu, semes
   </div>
 </div>
 
-Bingung bagaimana memasukkan potongan kode tersebut? Jika teman-teman memiliki website di mana teman-teman bisa memodifikasi kode sumber-nya, teman-teman bisa langsung memasukkan potongan kode tersebut di kode sumber teman-teman.
+Bingung bagaimana memasukkan potongan kode tersebut? Jika kamu memiliki website di mana kamu bisa memodifikasi kode sumber-nya, kamu bisa langsung memasukkan potongan kode tersebut di kode sumber website-mu.
 
-Bila teman-teman menggunakan layanan blog seperti Wordpress & Blogger, teman-teman bisa memasukkan potongan kode tersebut dengan menambahkan sebuah *widget*.
+Bila kamu menggunakan layanan blog seperti Wordpress & Blogger, kamu bisa memasukkan potongan kode tersebut dengan menambahkan sebuah widget.
 
-Ya, penambahan potongan kode ini memang ditunjukkan kepada teman-teman yang memiliki keahlian teknis.
+Ya, penambahan potongan kode ini memang ditunjukkan kepada kamu yang memiliki keahlian teknis.
 
 **Terlalu teknis? Tenang saja.** Kita bisa menggunakan metode tradisional.
 
