@@ -2,7 +2,7 @@
 
 Berikut ini adalah akun-akun yang saya sendiri kumpulkan, kurasi dan rekomendasikan untuk kamu ikuti. Akun-akun berikut Berbahasa Indonesia (terkadang campur dan/atau didominasi dengan Bahasa Inggris), memiliki interaksi organik, postingan yang menarik, dan bisa mempelajari perspektif yang baru dalam memandang kehidupan.
 
-Silahkan salin-tempel (*copy-paste*) nama-nama pengguna berikut di bar pencarian:
+Silahkan salin-tempel (*copy-paste*) nama-nama pengguna berikut di bar pencarian Mastodon:
 - `@Mastodon@mastodon.social` (Akun resmi lembaga Mastodon gGmbH)
 - `@Gargron@mastodon.social` (Pendiri Mastodon)
 - `@sandycorzeta@misskey.id` (Pengelola peladen misskey.id)
@@ -30,4 +30,4 @@ Silahkan salin-tempel (*copy-paste*) nama-nama pengguna berikut di bar pencarian
 - `@drahardja@sfba.social`
 - `@meutiafaradilla@mas.to`
 
-Catatan: Kamu tidak perlu mengikuti semuanya, secukupnya saja. Tetapi jika ingin linimasa beranda-mu tetap ramai, terutama untuk yang baru saja bergabung di Mastodon, saya sarankan untuk mengikuti semuanya
+Catatan: Kamu tidak perlu mengikuti semuanya, secukupnya saja. Tetapi jika ingin linimasa beranda-mu tetap ramai, terutama untuk yang baru saja bergabung di Mastodon, saya sarankan untuk mengikuti semuanya.
