@@ -10,4 +10,4 @@ Rekomendasiku untuk pengguna Android: [Moshidon](https://play.google.com/store/a
 
 Mengapa? Karena Moshidon merupakan *fork* dari aplikasi [resmi](https://play.google.com/store/apps/details?id=org.joinmastodon.android) Android Mastodon, namun dengan berbagai fitur tambahan yang dapat memaksimalkan fitur-fitur yang ada di Mastodon, seperti menjadwalkan postingan, me-repost postingan agar postingan yang kita repost hanya dapat dilihat oleh pengguna kita, mengintip isi linimasa peladen lain, dsb.
 
-Fitur-fitur tambahan lainnya bisa teman-teman baca di [halaman resmi-nya](https://github.com/LucasGGamerM/moshidon?tab=readme-ov-file#key-features).
+Fitur-fitur tambahan lainnya bisa kamu baca di [halaman resmi-nya](https://github.com/LucasGGamerM/moshidon?tab=readme-ov-file#key-features).
