@@ -1,6 +1,7 @@
 # Mengirim Pesan Pribadi (Direct Message)
 Mungkin kamu bingung, bagaimana bisa mengirim DM atau Direct Message di Mastodon.
-Mari buat postingan baru. Mention pengguna yang mau dikirimi DM (jika pengguna itu berada di satu peladen dengan kamu, maka yang ditampilkan cukup nama pengguna-nya saja: `@bandarbaru_1`, tetapi jika berbeda peladen maka yang ditampilkan lengkap bersama dengan nama peladennya: `@bandarbaru_1@fedi.my.id`, akun tersebut berada di peladen fedi.my.id). Set postingannya ke *private mention/specific people*, lalu kita klik *postingan (post)*.
+
+Mari kita buat postingan baru. Mention pengguna yang mau dikirimi DM (jika pengguna itu berada di satu peladen dengan kamu, maka yang ditampilkan cukup nama pengguna-nya saja: `@bandarbaru_1`, tetapi jika berbeda peladen maka yang ditampilkan lengkap bersama dengan nama peladennya: `@bandarbaru_1@fedi.my.id`, akun tersebut berada di peladen fedi.my.id). Set postingannya ke *private mention/specific people*, lalu kita klik *postingan (post)*.
 
 <div align="center">
   <div>
