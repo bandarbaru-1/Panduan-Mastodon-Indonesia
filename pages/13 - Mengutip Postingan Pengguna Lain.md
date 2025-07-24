@@ -3,22 +3,36 @@ Mungkin kamu bingung, bagaimana untuk mengutip postingan pengguna lain (quote re
 
 Untuk saat ini, pengguna menggunakan cara tradisional untuk mengutip postingan orang lain. Misalnya, kamu ingin quote repost postingan berikut. Maka di bagian bawah postingan, klik titik tiga di pojok kanan bawah, klik *salin tautan ke kiriman (copy link to post)*. Maka, otomatis tautan postingan tersebut akan tersalin ke clipboard kita.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/13pic-01.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/13pic-02.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+  </div>
+</div>
 
-Kemudian klik Terbitkan (New post), tempel (atau klik paste) di kolom postingan.
+Kemudian kita buat post baru, tempel (atau klik paste) di kolom postingan, kemudian tinggal tambahkan narasi sesuai keinginan kita, lalu klik *Terbitkan (post)*.
 
-[picture]
-
-Yep, kemudian tinggal tambahkan narasi sesuai keinginan kita, lalu klik *Terbitkan (post)*.
-
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/13pic-03.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/13pic-04.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+  </div>
+</div>
 
 Maka, postingannya akan tampil seperti ini.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/13pic-05.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+  </div>
+</div>
 
 Seperti tidak terlihat ya isi postingan yang di-quote post?
 
 Jangan khawatir! Karena di aplikasi pihak ke-tiga misalnya, postingan tsb. akan terrender sesuai dengan masing-masing aplikasi.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/13pic-06.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+  </div>
+</div>
