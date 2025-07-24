@@ -74,8 +74,6 @@ Bingung bagaimana memasukkan potongan kode tersebut? Jika kamu memiliki website 
 
 Bila kamu menggunakan layanan blog seperti Wordpress & Blogger, kamu bisa memasukkan potongan kode tersebut dengan menambahkan sebuah widget.
 
-Ya, penambahan potongan kode ini memang ditunjukkan kepada kamu yang memiliki keahlian teknis.
-
 **Terlalu teknis? Tenang saja.** Kita bisa menggunakan metode tradisional.
 
 Jika kamu sebelumnya punya basis pengikut di platform sosial media lain, kamu bisa katakan kepada pengikutmu di sana bahwa kamu membuat akun di Mastodon dengan menunjukkan nama penggunamu di Mastodon. Dengan begini, maka ini juga bisa membuktikan bahwa kepemilikan akunmu di Mastodon adalah asli, dimiliki sendiri. Bukan atas *impersonation* atau pemalsuan identitas orang lain.
