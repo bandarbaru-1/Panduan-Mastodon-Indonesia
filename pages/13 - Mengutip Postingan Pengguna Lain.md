@@ -5,8 +5,8 @@ Untuk saat ini, pengguna menggunakan cara tradisional untuk mengutip postingan o
 
 <div align="center">
   <div>
-    <img src="../assets/13pic-01.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/13pic-02.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/13pic-01.jpg" width="30%" />
+    <img src="../assets/13pic-02.jpg" width="30%" />
   </div>
 </div>
 
@@ -14,8 +14,8 @@ Kemudian kita buat post baru, tempel (atau klik paste) di kolom postingan, kemud
 
 <div align="center">
   <div>
-    <img src="../assets/13pic-03.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/13pic-04.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/13pic-03.jpg" width="30%" />
+    <img src="../assets/13pic-04.jpg" width="30%" />
   </div>
 </div>
 
@@ -23,7 +23,7 @@ Maka, postingannya akan tampil seperti ini.
 
 <div align="center">
   <div>
-    <img src="../assets/13pic-05.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/13pic-05.jpg" width="30%" />
   </div>
 </div>
 
@@ -33,6 +33,6 @@ Jangan khawatir! Karena di aplikasi pihak ke-tiga misalnya, postingan tsb. akan 
 
 <div align="center">
   <div>
-    <img src="../assets/13pic-06.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/13pic-06.jpg" width="30%" />
   </div>
 </div>
