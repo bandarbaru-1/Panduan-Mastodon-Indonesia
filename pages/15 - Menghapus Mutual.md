@@ -1,22 +1,50 @@
 # Menghapus Mutual
 Mungkin ada di satu titik, salah satu mutual-mu berselisih denganmu atau memiliki perasaan yang tidak enak dengannya, dan kamu ingin unfollow dia. Biasanya kita cukup kilk *Berhenti Mengikuti (Unfollow)* dan selesai, kita tidak lagi mengikuti akun dia itu, namun jika sebelumnya dia sempat ber-mutual follow dengan kita, kita unfollow dia namun dia masih follow kita. Di sini kita bisa menghapus status mutual tersebut, di mana kita unfollow dia, dia juga unfollow kita, tanpa perlu klik *Blokir (Block)* dulu.
 
-Mari kita ke halaman profil kita. Di halaman beranda, klik panel menu -> klik profil kita.
+Mari kita ke halaman profil kita. Di halaman beranda, klik panel menu -> klik profil kita. Di halaman profil, kita klik daftar *Following* kita, mari kita scroll akun yang kita ingin unfollow. Setelah kita menemukan akun yang akan kita unfollow, kita klik *Berhenti Mengikuti (Unfollow)*, dan selesai, kita tidak lagi mengikuti akun itu.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/15pic-01.jpg" width="30%" />
+    <img src="../assets/15pic-02.jpg" width="30%" />
+    <img src="../assets/15pic-03.jpg" width="30%" />
+    <img src="../assets/15pic-04.jpg" width="30%" />
+    <img src="../assets/15pic-05.jpg" width="30%" />
+    <img src="../assets/15pic-06.jpg" width="30%" />
+    <img src="../assets/15pic-07.jpg" width="30%" />
+  </div>
+</div>
 
-Di halaman profil, kita klik daftar *Following* kita, mari kita scroll akun yang kita ingin unfollow. Setelah kita menemukan akun yang akan kita unfollow, kita klik *Berhenti Mengikuti (Unfollow)*, dan selesai, kita tidak lagi mengikuti akun itu.
+Perhatikan, sebelum kita klik *Berhenti Mengikuti (Unfollow)*, ada status bar di banner profil bahwa *You Follow Each Other*, yang berarti akun kita dengan akun tersebut saling mengikuti satu sama lain, alias mutual follow.
 
-[picture]
+Setelah kita klik *Berhenti Mengikuti (Unfollow)*, status bar tersebut berubah menjadi *Mengikuti Anda (Follows You)*, yang berarti dia mengikuti kita, tetapi kita tidak mengikuti dia (tidak di-follow back).
 
 Dari sini, kita klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> klik *Ikuti dan pengikut (Follows and followers)*, lalu kemudian klik *Pengikut (Followers)*.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/15pic-08.jpg" width="30%" />
+    <img src="../assets/15pic-09.jpg" width="30%" />
+    <img src="../assets/15pic-10.jpg" width="30%" />
+    <img src="../assets/15pic-11.jpg" width="30%" />
+    <img src="../assets/15pic-12.jpg" width="30%" />
+  </div>
+</div>
 
 Mari kita scroll ex-mutual kita yang ingin kita hapus dari daftar followers kita, dan setelah menemukannya, klik *Hampus pengikut yang dipilih (Remove selected followers)*.
+<div align="center">
+  <div>
+    <img src="../assets/15pic-13.jpg" width="30%" />
+    <img src="../assets/15pic-14.jpg" width="30%" />
+  </div>
+</div>
 
-[picture]
+Mari kita cek, selesai. Akun tersebut tidak lagi mengikuti akun kita lagi. Tidak ada lagi indikator status bar bahwa dia mengikuti kita, atau kita masih saling mutual.
 
-Mari kita cek, selesai. Akun tersebut tidak lagi mengikuti akun kita lagi.
+<div align="center">
+  <div>
+    <img src="../assets/15pic-15.jpg" width="30%" />
+  </div>
+</div>
 
-[picture]
+> Catatan: Akun tersebut saya jadikan contoh untuk *berhenti mengikuti (unfollow)*, karena akun tersebut berada di peladen mstdn.id yang per tahun 2025 sudah tidak aktif, namun akunnya masih tersisa/tercatat di mastodon.social.
