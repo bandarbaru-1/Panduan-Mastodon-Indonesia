@@ -19,7 +19,7 @@ Perhatikan, sebelum kita klik *Berhenti Mengikuti (Unfollow)*, ada status bar di
 
 Setelah kita klik *Berhenti Mengikuti (Unfollow)*, status bar tersebut berubah menjadi *Mengikuti Anda (Follows You)*, yang berarti dia mengikuti kita, tetapi kita tidak mengikuti dia (tidak di-follow back).
 
-Dari sini, kita klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> klik *Ikuti dan pengikut (Follows and followers)*, lalu kemudian klik *Pengikut (Followers)*.
+Dari sini, kita klik titik tiga -> klik *Remove [username] from followers*. Akun tersebut sudah tidak lagi mengikuti kita dan kita dengan akun tersebut sudah tidak lagi bermutual.
 
 <div align="center">
   <div>
@@ -27,24 +27,8 @@ Dari sini, kita klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman
     <img src="../assets/15pic-09.jpg" width="30%" />
     <img src="../assets/15pic-10.jpg" width="30%" />
     <img src="../assets/15pic-11.jpg" width="30%" />
-    <img src="../assets/15pic-12.jpg" width="30%" />
-  </div>
-</div>
-
-Mari kita scroll ex-mutual kita yang ingin kita hapus dari daftar followers kita, dan setelah menemukannya, klik *Hampus pengikut yang dipilih (Remove selected followers)*.
-<div align="center">
-  <div>
-    <img src="../assets/15pic-13.jpg" width="30%" />
-    <img src="../assets/15pic-14.jpg" width="30%" />
-  </div>
-</div>
-
-Mari kita cek, selesai. Akun tersebut tidak lagi mengikuti akun kita lagi. Tidak ada lagi indikator status bar bahwa dia mengikuti kita, atau kita masih saling mutual.
-
-<div align="center">
-  <div>
-    <img src="../assets/15pic-15.jpg" width="30%" />
   </div>
 </div>
 
 > Catatan: Akun tersebut saya jadikan contoh untuk *berhenti mengikuti (unfollow)*, karena akun tersebut berada di peladen mstdn.id yang per tahun 2025 sudah tidak aktif, namun akunnya masih tersisa/tercatat di mastodon.social.
+
