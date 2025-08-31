@@ -26,8 +26,7 @@ Kita juga bisa lengkapi dengan media (gambar/video). Unggah media dengan mengkil
   </div>
 </div>
 
-Bila kamu tidak mengisi deskripsi singkat, maka teks tidak akan disensor namun gambar akan disensor.
-
+Bila kamu tidak mengisi deskripsi singkat, maka teks tidak akan disembunyikan namun gambar akan di-blur.
 
 <div align="center">
   <div>
@@ -35,4 +34,5 @@ Bila kamu tidak mengisi deskripsi singkat, maka teks tidak akan disensor namun g
     <img src="../assets/10pic-11.jpg" width="30%" />
   </div>
 </div>
+
 
