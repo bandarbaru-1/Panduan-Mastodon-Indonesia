@@ -3,13 +3,31 @@ Salah satu fitur di Mastodon adalah, kamu bisa mengubah isi postingan yang sudah
 
 Klik ikon titik tiga, lalu klik *Edit*.
 
-Di sini kita bisa mengubah isi postingan.
+<div align="center">
+  <div>
+    <img src="../assets/11pic-01.jpg" width="30%" />
+    <img src="../assets/11pic-02.jpg" width="30%" />
+  </div>
+</div>
 
-Jika sudah, klik *Perbarui (Update)*.
+Di sini kita bisa mengubah isi postingan. Jika sudah, klik *Perbarui (Update)*.
 
-Namun ada satu cara lagi. Yakni *Hapus dan draf ulang (delete & re-draft)*.
+<div align="center">
+  <div>
+    <img src="../assets/11pic-03.jpg" width="30%" />
+    <img src="../assets/11pic-04.jpg" width="30%" />
+  </div>
+</div>
 
-Postingan akan terhapus, namun kita akan diarahkan untuk menulisnya kembali. Jika sudah, klik *Postingan (Post)*.
+Namun ada satu cara lagi. Yakni *Hapus dan draf ulang (delete & re-draft)*. Postingan akan terhapus, namun otomatis kita akan diarahkan untuk menulisnya kembali.
+
+<div align="center">
+  <div>
+    <img src="../assets/11pic-05.jpg" width="30%" />
+    <img src="../assets/11pic-06.jpg" width="30%" />
+    <img src="../assets/11pic-07.jpg" width="30%" />
+  </div>
+</div>
 
 Mengingat nature Mastodon yang terdesentralisasi, terkadang jika kita mengubah postingan kita, perubahan itu mungkin tidak akan langsung direfleksikan di peladen-peladen yang lain, terutama bila peladen tsb. menggunakan sistem yang berbeda dari Mastodon.
 
