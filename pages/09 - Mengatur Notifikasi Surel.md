@@ -3,4 +3,17 @@ Kita mungkin agak sedikit terganggu, apabila Mastodon kerap mengirimmu pesan sur
 
 Di menu pengaturan, klik ikon menu di pojok kanan atas, lalu klik *Pilihan (Preferences)*, setelah itu klik ikon menu di pojok kanan atas lagi lalu klik *Email notifications*.
 
+<div align="center">
+  <div>
+    <img src="../assets/09pic-01.jpg" width="30%" />
+    <img src="../assets/09pic-02.jpg" width="30%" />
+  </div>
+</div>
+
 Di sini kita bisa matikan semuanya, lalu klik *Simpan Perubahan (Save changes)*.
+
+<div align="center">
+  <div>
+    <img src="../assets/09pic-03.jpg" width="30%" />
+  </div>
+</div>
