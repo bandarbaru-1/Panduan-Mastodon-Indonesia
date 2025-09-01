@@ -32,8 +32,8 @@ Pilihan *bahasa posting (posting language)*, jika kamu menggunakan antarmuka Bah
 
 Pilihan *who can quote*, ini seperti QRT atau Quote Retweet di Twitter, namun kita punya kontrol siapa saja yang bisa quote post postingan kita:
 - ***Everyone***. Siapapun bias quote post postingan kita.
-- ***Followers and mentioned users***. Hanya pengikut dan orang yang kita mention yang bisa quote post postingan kita.
-- ***Only mentioned users***. Hanya orang yang kita mention yang bisa quote post postingan kita.
+- ***Only your followers***. Hanya pengikut kita mention yang bisa quote post postingan kita.
+- ***Nobody***. Tidak ada seorangpun yang bisa quote post postingan kita.
 
 <div align="center">
   <div>
@@ -63,5 +63,6 @@ Jika sudah, scroll ke bawah lalu klik ***Simpan Perubahan (Save changes)***.
     <img src="../assets/05pic-07.jpg" width="30%" />
   </div>
 </div>
+
 
 
