@@ -54,7 +54,14 @@ Pengaturan *linimasa publik (public timelines)*, ini opsional, kita bisa centang
 Karena ini pula-lah, kamu bisa discover dan mencari mutual atau kenalan baru sesama pengguna Indonesia di Mastodon.
 
 
-Linimasa publik Berbahasa Indonesia per hari ini masih dipenuhi oleh spam-spam yang tidak jelas. Penjelasan bagaimana menggunakan linimasa publik (termasuk bagaimana bisu/blokir akun) dapat disimak di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/16%20-%20Menjelajahi%20Linimasa%20Publik%20dan%20Bisukan%20Blokir%20Akun.md). Sebagai alternatif, untuk mencari dan mengikutu akun-akun Berbahasa Indonesia di Mastodon/Fediverse, saya sudah mengkurasi beberapa akun yang dapat kalian ikuti di [halaman berikut]([https://github.com/bandarbaru-1/](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md)).
+Linimasa publik Berbahasa Indonesia per hari ini masih dipenuhi oleh spam-spam yang tidak jelas. Penjelasan bagaimana menggunakan linimasa publik (termasuk bagaimana bisu/blokir akun) dapat disimak di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/16%20-%20Menjelajahi%20Linimasa%20Publik%20dan%20Bisukan%20Blokir%20Akun.md). Sebagai alternatif, untuk mencari dan mengikutu akun-akun Berbahasa Indonesia di Mastodon/Fediverse, saya sudah mengkurasi beberapa akun yang dapat kalian ikuti di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md).
 
 Jika sudah, scroll ke bawah lalu klik ***Simpan Perubahan (Save changes)***.
+
+<div align="center">
+  <div>
+    <img src="../assets/05pic-07.jpg" width="30%" />
+  </div>
+</div>
+
 
