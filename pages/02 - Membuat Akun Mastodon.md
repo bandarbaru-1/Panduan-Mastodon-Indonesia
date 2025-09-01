@@ -99,14 +99,14 @@ Jika sudah, klik ***Save and continue***.
 
 Setelah itu, muncullah beberapa akun rekomendasi untuk diikuti. Karena kita berada di mastodon.social, maka biasanya akun-akun yang direkomendasikan adalah akun-akun populer di peladen tsb. dan biasanya adalah orang-orang luar. Kita bisa mengikuti mereka, atau silahkan scroll ke bawah lalu klik ***Done*** untuk selesai atau melewati itu.
 
-> Saya sudah mengkurasi beberapa akun yang dapat kalian cari dan ikuti di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md).
-
 <div align="center">
   <div>
     <img src="../assets/02pic-11.jpg" width="30%" />
     <img src="../assets/02pic-12.jpg" width="30%" />
   </div>
 </div>
+
+> Saya sudah mengkurasi beberapa akun yang dapat kalian cari dan ikuti di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md).
 
 Dan selesai, kamu siap menggunakan Mastodon!
 
@@ -115,4 +115,5 @@ Dan selesai, kamu siap menggunakan Mastodon!
     <img src="../assets/02pic-13.jpg" width="30%" />
   </div>
 </div>
+
 
