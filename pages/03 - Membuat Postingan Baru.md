@@ -2,9 +2,20 @@
 
 Mari kita buat postingan baru dengan mengklik tombol "**+**" di bagian toolbar bawah. Kita dapat menulis apapun yang kita mau untuk kita posting.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/03pic-01.jpg" width="30%" />
+    <img src="../assets/03pic-02.jpg" width="30%" />
+  </div>
+</div>
 
 Sebelum kita klik *Post*, mari kita perhatikan pilihan-pilihan yang ada.
+
+<div align="center">
+  <div>
+    <img src="../assets/03pic-03.jpg" width="30%" />
+  </div>
+</div>
 
 Pertama, ada *Public*, jika kita klik, maka akan muncul berbagai pilihan. Itu adalah pengaturan privasi pada postingan yang akan kamu kirim.
 
@@ -17,7 +28,11 @@ Pertama, ada *Public*, jika kita klik, maka akan muncul berbagai pilihan. Itu ad
 
 Kemudian, ada *English*, dan jika kita klik, maka akan muncul berbagai pilihan bahasa. Itu adalah pengaturan bahasa postingan yang akan kita kirim.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/03pic-04.jpg" width="30%" />
+  </div>
+</div>
 
 Dengan menyetel Bahasa Indonesia, postingan tersebut dapat muncul di linimasa publik Bahasa Indonesia, dan juga pengguna yang menggunakan bahasa lain dapat menggunakan fitur terjemahan untuk menerjemahkan postinganmu ke dalam bahasa mereka. Mari kita pilih Bahasa Indonesia.
 
@@ -25,10 +40,26 @@ Dengan menyetel Bahasa Indonesia, postingan tersebut dapat muncul di linimasa pu
 
 Sampai sini semestinya kita bisa kilk *Post* untuk memposting, dan kita berhasil membuat postingan di Mastodon!
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/03pic-05.jpg" width="30%" />
+  </div>
+</div>
 
 Kita juga bisa mengunggah media (gambar atau video) serta poll dalam postingan yang kita buat.
 
-[picture]
+<div align="center">
+  <div>
+    <img src="../assets/03pic-06.jpg" width="30%" />
+  </div>
+</div>
+
+<div align="center">
+  <div>
+    <img src="../assets/03pic-07.jpg" width="30%" />
+    <img src="../assets/03pic-08.jpg" width="30%" />
+  </div>
+</div>
 
 Kita bisa memanfaatkan menulis postingan pertama untuk memperkenalkan diri, agar pengguna Mastodon yang lain bisa mengenalmu dan mudah bermutual denganmu.
+
