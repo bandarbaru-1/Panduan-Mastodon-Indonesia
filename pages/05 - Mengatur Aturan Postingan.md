@@ -20,7 +20,7 @@ Di menu ini, pengaturan yang akan saya bahas adalah pengaturan *Kiriman Bawaan (
 Penjelasan pilihan *set privasi postingan (posting privacy)*:
 - ***Publik - Bisa dilihat semua orang (Public - Everyone can see)***. Ini secara bawaan/default, dan jika kita memilih akun dan postingannya dapat diakses dan dicari oleh pengguna lainnya.
 - ***Bisa dilihat semua orang, tapi tidak ditampilkan di linimasa publik - Tidak terdaftar di linimasa publik tetapi siapapun dapat melihat (Unlisted - Everyone can see, but not listed on public timelines)***. Ini sama seperti quiet public. Salah satu pilihan jika kita mungkin ingin postingannya dilihat publik, tetapi di satu waktu, kita ingin postingannya tidak mau tersebar secara luas.
-- ***Khusus pengikut - Hanya tampilkan ke pengikut (Followers only - Only show to followers)***. Postingan berikutnya akan di setel hanya khusus pengikutmu saja yang melihat (kecuali kita set manual ke public sebelum posting). Ini pilihan yang sangat penting apabila kita ingin menjadikan akunmu privat.
+- ***Khusus pengikut - Hanya tampilkan ke pengikut (Followers only - Only show to followers)***. Postingan berikutnya akan di setel hanya khusus pengikut kita saja yang melihat (kecuali kita set manual ke public sebelum posting). Ini pilihan yang sangat penting apabila kita ingin menjadikan akun kita privat.
 
 <div align="center">
   <div>
@@ -64,6 +64,7 @@ Jika sudah, scroll ke bawah lalu klik ***Simpan Perubahan (Save changes)***.
     <img src="../assets/05pic-07.jpg" width="30%" />
   </div>
 </div>
+
 
 
 
