@@ -33,11 +33,11 @@ Di peladen mastodon.social, kita ke *Preferences* ->klik *Account* -> scroll ke 
 
 [picture]
 
-Di sini, kita bisa masukkan alamat nama pengguna baru kita di peladen yang baru kita pilih, serta kata sandi akun kita di peladen yang lama.
+Di sini, kita bisa masukkan alamat nama pengguna baru kita di peladen yang baru kita pilih, serta kata sandi akun kita di peladen yang lama. Klik ***Pindahkan pengikut (Move followers)*** untuk memulai proses.
 
 [picture]
 
-Selesai, proses migrasi akun selesai. Sekarang pengikut kita secara otomatis akan dipindahkan untuk mengikuti akun kita yang baru di peladen yang baru.
+Proses migrasi akun selesai. Sekarang pengikut kita secara otomatis akan dipindahkan untuk mengikuti akun kita yang baru di peladen yang baru.
 
 [picture]
 
@@ -107,4 +107,5 @@ Perhatikan catatannya: **akun yang telah dihapus tidak dapat diaktifkan kembali*
 Jika sudah, masukkan kata sandi, dan klik ***Hapus akun (Delete account)***.
 
 Selesai. Semoga bisa bertemu lagi di lain waktu dan di lain kesempatan.
+
 
