@@ -3,7 +3,7 @@ Baik, sekarang kita akan mempelajari bagaimana membuat postingan dengan tanda pe
 
 Tidak cuma konten sensitif saja, tetapi kita bisa mengaplikasikan tanda peringatan ini ke seluruh jenis konten-konten yang kita unggah yang dirasa sensitif bagi sebagian pengikut kita.
 
-Mari kita buat postingan baru -> klik ikon tanda peringatan untuk menambahkan tanda peringatan pada postingan kita, lalu tulis bagaimana kita menjelaskan deskripsi singkat yang akan muncul sebelum pengguna lain mengklik dan membaca seluruh isi postingan kita. Bila sudah, klik *Postingan (Post)*, dan postingan kita sudah memiliki tanda peringatan, di mana isi postingan kita disembunyikan dan kita mesti mengklik *Show more* untuk melihat isi postingan tersebut.
+Mari kita buat postingan baru -> klik ikon tanda peringatan untuk menambahkan tanda peringatan pada postingan kita, lalu tulis bagaimana kita menjelaskan deskripsi singkat yang akan muncul sebelum pengguna lain mengklik dan membaca seluruh isi postingan kita. Bila sudah, klik ***Postingan (Post)***, dan postingan kita sudah memiliki tanda peringatan, di mana isi postingan kita disembunyikan dan kita mesti mengklik *Show more* untuk melihat isi postingan tersebut.
 
 <div align="center">
   <div>
@@ -34,6 +34,7 @@ Bila kita tidak mengisi deskripsi singkat, maka teks tidak akan disembunyikan na
     <img src="../assets/10pic-11.jpg" width="30%" />
   </div>
 </div>
+
 
 
 
