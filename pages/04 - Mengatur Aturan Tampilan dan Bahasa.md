@@ -53,7 +53,7 @@ Dan di bagian *Sensitive Content*. Terdapat 3 pilihan:
 - ***Always show media***. Konten sensitif akan muncul tanpa sensor.
 - ***Always hide media***. Konten sensitif tidak akan muncul di linimasa.
 
-- <div align="center">
+<div align="center">
   <div>
     <img src="../assets/04pic-08.jpg" width="30%" />
   </div>
@@ -70,4 +70,5 @@ Panduan berikutnya akan sepenuhnya menggunakan antarmuka tampilan Bahasa Indones
     <img src="../assets/04pic-09.jpg" width="30%" />
   </div>
 </div>
+
 
