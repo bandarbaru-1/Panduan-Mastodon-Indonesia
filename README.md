@@ -5,10 +5,10 @@ Ini adalah panduan singkat menggunakan Mastodon dalam Bahasa Indonesia, yang say
 > Setelah proses penulisan dan pengambilan tangkapan layar untuk panduan ini rampung, Mastodon [memperbarui antarmuka pengguna-nya](https://mastodon.social/@bandarbaru_1/114675314400411500), yang membuat sebagian tangkapan layar yang terdapat pada panduan ini memiliki perbedaan. Saya belum dapat menjamin jika saya dapat memperbarui tangkapan layar yang ada pada panduan ini, dan mohon pengertiannya apabila saya tidak dapat memperbarui seluruh tangkapan layar yang ada pada panduan ini. Saya harap kalian dapat memakluminya, dan masih dapat memahami dan mengikuti isi dari panduan ini.
 
 Daftar Isi:
-1. [Perkenalan Mastodon](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/01%20-%20Perkenalan%20Mastodon%20dalam%20Bahasa%20Indonesia.md)
+1. [Perkenalan Mastodon dalam Bahasa Indonesia](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/01%20-%20Perkenalan%20Mastodon%20dalam%20Bahasa%20Indonesia.md)
 2. [Membuat Akun Mastodon](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/02%20-%20Membuat%20Akun%20Mastodon.md)
 3. [Membuat Postingan Baru](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/03%20-%20Membuat%20Postingan%20Baru.md)
-4. [Mengatur Tampilan dan Bahasa](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/04%20-%20Mengatur%20Aturan%20Tampilan%20dan%20Bahasa.md)
+4. [Mengatur Aturan Tampilan dan Bahasa](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/04%20-%20Mengatur%20Aturan%20Tampilan%20dan%20Bahasa.md)
 5. [Mengatur Aturan Postingan](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/05%20-%20Mengatur%20Aturan%20Postingan.md)
 6. [Mengatur Privasi Akun](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/06%20-%20Mengatur%20Privasi%20Akun.md)
 7. [Menyaring Postingan (Post Filter)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/07%20-%20Menyaring%20Postingan.md)
@@ -19,14 +19,14 @@ Daftar Isi:
 12. [Menambahkan Teks Alternatif (ALT Text)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/12%20-%20Menambahkan%20Teks%20Alternatif.md)
 13. [Mengutip Postingan Pengguna Lain (Quote Repost)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/13%20-%20Mengutip%20Postingan%20Pengguna%20Lain.md)
 14. [Mengirim Pesan Pribadi (Direct Message)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/14%20-%20Mengirim%20Pesan%20Pribadi.md)
-15. [Menjelajahi Linimasa Publik (Public Timeline), dan Bisukan Blokir Akun](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/16%20-%20Menjelajahi%20Linimasa%20Publik%20dan%20Bisukan%20Blokir%20Akun.md)
-16. [Menghapus Mutual](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/15%20-%20Menghapus%20Mutual.md)
+15. [Menghapus Mutual](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/15%20-%20Menghapus%20Mutual.md)
+16. [Menjelajahi Linimasa Publik (Public Timeline), dan Bisukan Blokir Akun](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/16%20-%20Menjelajahi%20Linimasa%20Publik%20dan%20Bisukan%20Blokir%20Akun.md)
 17. [Panduan Sederhana Akun Privat (Private Account)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/17%20-%20Panduan%20Sederhana%20Akun%20Privat.md)
 18. [Menggunakan Aplikasi Pihak Ketiga (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/18%20-%20Menggunakan%20Aplikasi%20Pihak%20Ketiga.md)
 19. [Membangun Lingkup Sosial Media Yang Sehat](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/19%20-%20Membangun%20Lingkup%20Sosial%20Media%20Yang%20Sehat.md)
 20. [Rekomendasi Akun Yang Kamu Dapat Ikuti (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md)
-21. [Berinteraksi Dengan Pengguna Threads oleh Instagram](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/21%20-%20Berinteraksi%20Dengan%20Pengguna%20Threads.md)
-22. [Berinteraksi Dengan Pengguna Bluesky](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/22%20-%20Berinteraksi%20Dengan%20Pengguna%20Bluesky.md)
+21. [Berinteraksi Dengan Pengguna Threads (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/21%20-%20Berinteraksi%20Dengan%20Pengguna%20Threads.md)
+22. [Berinteraksi Dengan Pengguna Bluesky (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/22%20-%20Berinteraksi%20Dengan%20Pengguna%20Bluesky.md)
 23. [Tautan di Bio dan Verifikasi Akun](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/23%20-%20Tautan%20di%20Bio%20dan%20Verifikasi%20Akun.md)
 24. [Mengundang Teman (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/24%20-%20Mengundang%20Teman.md)
 25. [Migrasi Akun & Tutup Akun](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/25%20-%20Migrasi%20Akun%20dan%20Tutup%20Akun.md)
@@ -78,4 +78,5 @@ Aplikasi Signal dapat diunduh melalui [Play Store](https://play.google.com/store
 Panduan ini masih jauh dari kesempurnaan, serta panduan ini juga bersifat sumber terbuka. Siapa saja bisa berkontribusi untuk mengembangkan dan memperbaiki panduan ini. Siapa saja juga bisa mengadaptasi isi dari panduan ini ke dalam berbagai media (atau mengembangkannya sendiri), tanpa perlu seizin dari saya sebagai penulis dari panduan ini.
 
 <a rel="me" href="https://mastodon.social/@bandarbaru_1" style="opacity: 0;"> </a>
+
 
