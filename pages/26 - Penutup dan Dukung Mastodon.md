@@ -14,6 +14,7 @@ Informasi donasi dan sponsor ke lembaga Mastodon gGmbH, dapat diakses di halaman
 
 Informasi donasi ke individu dan komunitas yang menyediakan peladen lainnya (diluar kelola dan kontrol oleh Mastodon gGmbH), silahkan merujuk ke informasi yang telah mereka berikan, atau hubungi pengelola peladen tersebut.
 
-- https://fedi.my.id/ : Silahkan kirimi pesan ke [@mimin@fedi.my.id](https://fedi.my.id/@mimin) atau ke [@kimiamania@pegelinux.top](https://pegelinux.top/@kimiamania)
-- https://misskey.id/ : Silahkan berdonasi di: https://trakteer.id/sandycorzeta/tip 
+- fedi.my.id : Silahkan kirimi pesan ke [@mimin@fedi.my.id](https://fedi.my.id/@mimin) atau ke [@kimiamania@pegelinux.top](https://pegelinux.top/@kimiamania)
+- misskey.id : Silahkan berdonasi di: https://trakteer.id/sandycorzeta/tip 
+
 
