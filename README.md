@@ -1,6 +1,6 @@
-# Panduan Singkat Penggunaan Mastodon Dalam Bahasa Indonesia
+# Panduan Sederhana Penggunaan Mastodon Dalam Bahasa Indonesia
 
-Ini adalah panduan singkat menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
+Ini adalah panduan sederhana menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
 
 > Setelah proses penulisan dan pengambilan tangkapan layar untuk panduan ini rampung, Mastodon [memperbarui antarmuka pengguna-nya](https://mastodon.social/@bandarbaru_1/114675314400411500), yang membuat sebagian tangkapan layar yang terdapat pada panduan ini memiliki perbedaan. Saya belum dapat menjamin jika saya dapat memperbarui tangkapan layar yang ada pada panduan ini, dan mohon pengertiannya apabila saya tidak dapat memperbarui seluruh tangkapan layar yang ada pada panduan ini. Saya harap kalian dapat memakluminya, dan masih dapat memahami dan mengikuti isi dari panduan ini.
 
@@ -79,6 +79,7 @@ Panduan ini masih jauh dari kesempurnaan, serta panduan ini juga bersifat sumber
 #
 
 <a rel="me" href="https://mastodon.social/@bandarbaru_1" style="opacity: 0;"> </a>
+
 
 
 
