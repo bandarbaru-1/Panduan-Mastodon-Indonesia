@@ -34,7 +34,7 @@ Mari kita ke beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di h
   </div>
 </div>
 
-Kamu bisa masukkan *label*-nya adalah: "Blog", "Website", atau apapun itu. Lalu *konten (content)*-nya adalah alamat website yang kita miliki. **Alamat website mesti diawali** **`https://`**, karena jika tidak, maka website tsb. tidak akan ditampilkan sebagai tautan yang dapat diklik.
+Kita bisa masukkan *label*-nya adalah: "Blog", "Website", atau apapun itu. Lalu *konten (content)*-nya adalah alamat website yang kita miliki. **Alamat website mesti diawali** **`https://`**, karena jika tidak, maka website tsb. tidak akan ditampilkan sebagai tautan yang dapat diklik.
 
 Jika sudah, scroll ke bawah, lalu klik *Simpan perubahan (Save changes)*.
 
@@ -54,7 +54,7 @@ Setelah kita memasukkan tautan kita di bio, dan ingin memberikan verifikasi agar
   </div>
 </div>
 
-Scroll bawah sedikit, nah di sini kita akan menemukan potongan kode yang kamu dapat tempelkan ke kode sumber website-mu atau blog-mu.
+Scroll bawah sedikit, nah di sini kita akan menemukan potongan kode yang dapat ditempelkan ke kode sumber website atau blog kita.
 
 <div align="center">
   <div>
@@ -62,7 +62,7 @@ Scroll bawah sedikit, nah di sini kita akan menemukan potongan kode yang kamu da
   </div>
 </div>
 
-Jika sudah, mungkin tunggu berapa saat dan coba refresh halaman profil-mu, semestinya tautan tersebut berubah menjadi warna hijau.
+Jika sudah, mungkin tunggu berapa saat dan coba refresh halaman profil kita, semestinya tautan tersebut berubah menjadi warna hijau.
 
 <div align="center">
   <div>
@@ -70,10 +70,11 @@ Jika sudah, mungkin tunggu berapa saat dan coba refresh halaman profil-mu, semes
   </div>
 </div>
 
-Bingung bagaimana memasukkan potongan kode tersebut? Jika kamu memiliki website di mana kamu bisa memodifikasi kode sumber-nya, kamu bisa langsung memasukkan potongan kode tersebut di kode sumber website-mu.
+Bingung bagaimana memasukkan potongan kode tersebut? Jika kalian memiliki website di mana kita bisa memodifikasi kode sumber-nya, kalian bisa langsung memasukkan potongan kode tersebut di kode sumber website kalian.
 
-Bila kamu menggunakan layanan blog seperti Wordpress & Blogger, kamu bisa memasukkan potongan kode tersebut dengan menambahkan sebuah widget.
+Bila kalian menggunakan layanan blog seperti Wordpress & Blogger, kalian bisa memasukkan potongan kode tersebut dengan menambahkan sebuah widget.
 
 **Terlalu teknis? Tenang saja.** Kita bisa menggunakan metode tradisional.
 
-Jika kamu sebelumnya punya basis pengikut di platform sosial media lain, kamu bisa katakan kepada pengikutmu di sana bahwa kamu membuat akun di Mastodon dengan menunjukkan nama penggunamu di Mastodon. Dengan begini, maka ini juga bisa membuktikan bahwa kepemilikan akunmu di Mastodon adalah asli, dimiliki sendiri. Bukan atas *impersonation* atau pemalsuan identitas orang lain.
+Jika kalian sebelumnya punya basis pengikut di platform sosial media lain, kalian bisa katakan kepada pengikut kalian di sana bahwa kalian membuat akun di Mastodon dengan menunjukkan nama pengguna kalian di Mastodon. Dengan begini, maka ini juga bisa membuktikan bahwa kepemilikan akun kalian di Mastodon adalah asli, dimiliki sendiri. Bukan atas impersonation atau pemalsuan identitas orang lain.
+
