@@ -30,7 +30,8 @@ Dari sini, kita klik titik tiga -> klik ***Remove [username] from followers***. 
   </div>
 </div>
 
-> Catatan: Akun tersebut saya jadikan contoh untuk *berhenti mengikuti (unfollow)*, karena akun tersebut berada di peladen mstdn.id yang per tahun 2025 sudah tidak aktif, namun akunnya masih tersisa/tercatat di mastodon.social.
+> Akun tersebut saya jadikan contoh untuk *berhenti mengikuti (unfollow)*, karena akun tersebut berada di peladen mstdn.id yang per tahun 2025 sudah tidak aktif, namun akunnya masih tersisa/tercatat di mastodon.social.
+
 
 
 
