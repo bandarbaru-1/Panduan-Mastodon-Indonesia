@@ -33,6 +33,7 @@ Mengingat nature Mastodon yang terdesentralisasi, terkadang jika kita mengubah p
 
 Kapan sebaiknya menggunakan *edit*? Saat perubahan postingan itu terlalu minim, hanya memperbaiki typo, dan juga postingan tersebut sudah di-like atau di-boost (repost atau retweet dalam istilah Twitter).
 
-Kapan sebaiknya menggunakan hapus dan draf ulang (*delete & re-draft*)? Saat perubahan postingan itu terlalu signifikan, memperbaiki tatanan kata, dan juga postingan tersebut belum di-like atau di-boost (repost atau retweet dalam istilah Twitter) sama sekali oleh pengguna lain.
+Kapan sebaiknya menggunakan *hapus dan draf ulang (delete & re-draft)*? Saat perubahan postingan itu terlalu signifikan, memperbaiki tatanan kata, dan juga postingan tersebut belum di-like atau di-boost (repost atau retweet dalam istilah Twitter) sama sekali oleh pengguna lain.
+
 
 
