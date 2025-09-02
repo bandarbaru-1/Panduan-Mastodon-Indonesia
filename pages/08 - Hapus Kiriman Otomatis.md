@@ -51,12 +51,13 @@ Untuk penjelasan pilihan *pengecualian berdasarkan interaksi (exceptions based i
   </div>
 </div>
 
-Jika sudah, scroll ke atas lalu klik *Simpan Perubahan (Save changes)*.
+Jika sudah, scroll ke atas lalu klik ***Simpan Perubahan (Save changes)***.
 
 <div align="center">
   <div>
     <img src="../assets/08pic-08.jpg" width="30%" />
   </div>
 </div>
+
 
 
