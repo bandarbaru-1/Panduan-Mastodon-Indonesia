@@ -28,7 +28,7 @@ Namun karena kita membuat akun di peladen mastodon.social, berikut adalah aturan
 5. **Jangan berbagi informasi yang dikenal secara luas sebagai salah dan menyesatkan**.
 6. **Konten yang dibuat oleh orang lain harus dikaitkan, dan penggunaan AI generatif harus diungkapkan**. Bila kita memposting sebuah konten yang di ambil dari sumber internet atau lainnya (bukan milikmu), usahakan untuk memberikan kredit. Bila kita memposting konten yang di-generate oleh AI, berikan pernyataan yang jelas di dalam postingan bahwa konten tersebut adalah konten yang dibuat oleh AI.
 
-Setelah kita membaca dan merasa tidak keberatan dengan peraturan tersebut, kilk **Accept** untuk melanjutkan.
+Setelah kita membaca dan merasa tidak keberatan dengan peraturan tersebut, kilk ***Accept*** untuk melanjutkan.
 
 Barulah kita mulai memasukkan nama pengguna yang kita inginkan, alamat surel yang kita miliki, kata sandi yang akan kita gunakan, serta masukkan tanggal lahir.
 
@@ -77,13 +77,13 @@ Selesaikan captcha, lalu klik ***Continue***.
 
 Dan akun Mastodon berhasil dibuat!
 
+Sekarang, kita unggah foto profil, foto banner/sampul, nama akun, serta bio.
+
 <div align="center">
   <div>
     <img src="../assets/02pic-09.jpg" width="30%" />
   </div>
 </div>
-
-Sekarang, kita unggah foto profil, foto banner/sampul, nama akun, serta bio.
 
 Terdapat pilihan *Make my profile discoverable*, jika kita mengaktifkan ini, maka akun kita dapat tampil di hasil pencarian, trending, dan di daftar rekomendasi di beberapa pengguna.
 
@@ -115,6 +115,7 @@ Dan selesai, akun Mastodon kita siap digunakan!
     <img src="../assets/02pic-13.jpg" width="30%" />
   </div>
 </div>
+
 
 
 
