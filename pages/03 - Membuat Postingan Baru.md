@@ -36,7 +36,7 @@ Dengan menyetel *Bahasa Indonesia*, postingan tersebut dapat muncul di linimasa 
 
 > Penjelasan mengenai linimasa publik Bahasa Indonesia dapat disimak di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/16%20-%20Menjelajahi%20Linimasa%20Publik%20dan%20Bisukan%20Blokir%20Akun.md).
 
-Sampai sini semestinya kita bisa kilk *Post* untuk memposting, dan kita berhasil membuat postingan di Mastodon!
+Sampai sini semestinya kita bisa kilk ***Post*** untuk memposting, dan kita berhasil membuat postingan di Mastodon!
 
 <div align="center">
   <div>
@@ -60,5 +60,6 @@ Kita juga bisa mengunggah media (gambar atau video) serta poll dalam postingan y
 </div>
 
 Kita bisa memanfaatkan menulis postingan pertama untuk memperkenalkan diri, agar pengguna Mastodon yang lain bisa mengenalmu dan mudah bermutual denganmu.
+
 
 
