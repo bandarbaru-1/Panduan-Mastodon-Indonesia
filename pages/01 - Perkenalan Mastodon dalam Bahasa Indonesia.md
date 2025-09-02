@@ -20,17 +20,18 @@ Karena sifatnya yang terdesentralisasi itulah, Mastodon tidak hanya disediakan d
 
 Meskipun terdesentralisasi, hal ini tidak membatasi pengguna hanya dapat berinteraksi dengan pengguna di dalam sebuah peladen saja, namun pengguna bisa berinteraksi dengan berbagai pengguna di berbagai peladen luar yang saling terhubung.
 
-Bingung atas penjelasan ini? Tidak apa-apa jika belum bisa begitu memahaminya, terutama untuk pemula yang baru saja memulai. Tenang saja, nantinya kamu akan dapat memahami penjelasan ini setelah kamu menggunakan Mastodon dalam beberapa waktu.
+Bingung atas penjelasan ini? Tidak apa-apa jika belum bisa begitu memahaminya, terutama untuk yang baru saja memulai. Tenang saja, nantinya kalian akan dapat memahami penjelasan ini setelah kalian menggunakan Mastodon dalam beberapa waktu.
 
-Karena banyaknya peladen yang tersedia, mungkin kamu bingung, peladen apa yang akan kamu gunakan? Jangan khawatir, berikut adalah beberapa yang saya rekomendasikan:
+Karena banyaknya peladen yang tersedia, mungkin kalian bingung, peladen apa yang akan kalian gunakan? Jangan khawatir, berikut adalah beberapa yang saya rekomendasikan:
 - Rekomendasi utama: [mastodon.social](https://mastodon.social/) - Disediakan dan dikelola oleh [Mastodon gGmbH](https://joinmastodon.org/about), lembaga kolektif utama yang mengembangkan Mastodon. Karena dikelola langsung oleh pengembangnya, maka dapat menjamin keberlangsungan peladen ini untuk waktu masa yang mendatang.
 - Peladen dalam Bahasa Indonesia: [fedi.my.id](https://fedi.my.id/) - Disediakan dan dikelola oleh [Rezha Julio](https://pegelinux.top/@kimiamania).
-- Peladen dalam Bahasa Indonesia, namun menggunakan platform Misskey: [misskey.id](https://misskey.id/) - Disediakan dan dikelola oleh [Sandy Corzeta](https://misskey.id/@sandycorzeta). Misskey memiliki antarmuka pengguna serta fitur yang berbeda dengan Mastodon, namun terhubung dan terfederasi dengan jaringan antar jaringan melalui protokol ActivityPub, protokol yang sama yang digunakan oleh Mastodon untuk terhubung dengan peladen lainnya - Direkomendasikan bila kamu adalah kreator, pecinta seni dan karya Jepang (seperti: anime, idol group, manga, dsb.)
-- dan bila temanmu atau komunitas yang kamu ikuti di internet diketahui aktif menyediakan dan mengelola peladen Mastodon, kamu bisa bergabung di peladen yang mereka sediakan dan mereka kelola.
+- Peladen dalam Bahasa Indonesia, namun menggunakan platform Misskey: [misskey.id](https://misskey.id/) - Disediakan dan dikelola oleh [Sandy Corzeta](https://misskey.id/@sandycorzeta). Misskey memiliki antarmuka pengguna serta fitur yang berbeda dengan Mastodon, namun terhubung dan terfederasi dengan jaringan antar jaringan melalui protokol ActivityPub, protokol yang sama yang digunakan oleh Mastodon untuk terhubung dengan peladen lainnya - Direkomendasikan bila kalian adalah kreator, pecinta seni dan karya Jepang (seperti: anime, idol group, manga, dsb.)
+- dan bila teman kalian atau komunitas yang kalian ikuti di internet diketahui aktif menyediakan dan mengelola peladen Mastodon, kalian bisa bergabung di peladen yang mereka sediakan dan mereka kelola.
 - selebihnya, dapat dilihat pada [daftar berikut](https://joinmastodon.org/servers).
 
 Panduan ini akan saya lakukan di peladen **mastodon.social**, dan saya akan menggunakan peramban ponsel yang diharapkan pengguna ponsel Android & iOS dapat mengikuti dan memahaminya dengan mudah melalui satu antarmuka yang sama.
 
 Jika kalian memutuskan untuk menggunakan peladen Mastodon lain, seperti fedi.my.id, mstdn.social, dll., saya rasa antarmuka pengguna-nya tidak akan begitu beda jauh, dan panduan ini masih bisa dapat diikuti.
 
-> Sebagai catatan, walaupun saya memasukkan peladen misskey.id pada daftar rekomendasi peladen, bagaimanapun misskey.id menggunakan sistem platform Misskey yang berbeda dengan Mastodon. Panduan yang akan saya tulis ini sayangnya tidak akan mencakup panduan penggunaan Misskey. Bila kalian memutuskan untuk menggunakan Misskey, kalian bisa mempelajarinya di [halaman berikut](https://misskey-hub.net/id/docs/for-users/onboarding/). Terima kasih atas pengertiannya.
+> Walaupun saya memasukkan peladen misskey.id pada daftar rekomendasi peladen, bagaimanapun misskey.id menggunakan sistem platform Misskey yang berbeda dengan Mastodon. Panduan yang saya tulis ini sayangnya tidak mencakup panduan penggunaan Misskey. Bila kalian memutuskan untuk menggunakan Misskey, kalian bisa mempelajarinya di [halaman berikut](https://misskey-hub.net/id/docs/for-users/onboarding/). Terima kasih atas pengertiannya.
+
