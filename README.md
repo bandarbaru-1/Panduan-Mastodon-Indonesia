@@ -1,4 +1,4 @@
-# Panduan Singkat Penggunaan Mastodon dalam Bahasa Indonesia
+# Panduan Singkat Penggunaan Mastodon Dalam Bahasa Indonesia
 
 Ini adalah panduan singkat menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
 
@@ -78,5 +78,6 @@ Aplikasi Signal dapat diunduh melalui [Play Store](https://play.google.com/store
 Panduan ini masih jauh dari kesempurnaan, serta panduan ini juga bersifat sumber terbuka. Siapa saja bisa berkontribusi untuk mengembangkan dan memperbaiki panduan ini. Siapa saja juga bisa mengadaptasi isi dari panduan ini ke dalam berbagai media (atau mengembangkannya sendiri), tanpa perlu seizin dari saya sebagai penulis dari panduan ini.
 
 <a rel="me" href="https://mastodon.social/@bandarbaru_1" style="opacity: 0;"> </a>
+
 
 
