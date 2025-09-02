@@ -19,7 +19,7 @@ Perhatikan, sebelum kita klik *Berhenti Mengikuti (Unfollow)*, ada status bar di
 
 Setelah kita klik *Berhenti Mengikuti (Unfollow)*, status bar tersebut berubah menjadi *Mengikuti Anda (Follows You)*, yang berarti dia mengikuti kita, tetapi kita tidak mengikuti dia (tidak di-follow back).
 
-Dari sini, kita klik titik tiga -> klik ***Remove [username] from followers***. Akun tersebut sudah tidak lagi mengikuti kita dan kita dengan akun tersebut sudah tidak lagi bermutual.
+Dari sini, kita klik ikon menu -> klik *Remove [username] from followers* -> ***Remove Follower***. Akun tersebut sudah tidak lagi mengikuti kita dan kita sudah tidak lagi bermutual dengan akun tersebut.
 
 <div align="center">
   <div>
@@ -31,6 +31,7 @@ Dari sini, kita klik titik tiga -> klik ***Remove [username] from followers***. 
 </div>
 
 > Akun tersebut saya jadikan contoh untuk *berhenti mengikuti (unfollow)*, karena akun tersebut berada di peladen mstdn.id yang per tahun 2025 sudah tidak aktif, namun akunnya masih tersisa/tercatat di mastodon.social.
+
 
 
 
