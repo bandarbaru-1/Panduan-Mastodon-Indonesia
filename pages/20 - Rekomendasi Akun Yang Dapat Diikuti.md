@@ -24,6 +24,7 @@ Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian M
 - `@domswp@misskey.id`
 - `@LLENN08@misskey.id`
 - `@ccoremapd@fedi.my.id`
+- `@62ch_@misskey.id`
 - `@ufal@misskey.id`
 - `@aulia@mementomori.social`
 - `@Lizahadiz@writing.exchange`
@@ -33,3 +34,4 @@ Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian M
 > Kalian tidak perlu mengikuti semuanya, secukupnya saja. Tetapi jika ingin linimasa beranda kalian tetap ramai, terutama untuk yang baru saja bergabung di Mastodon, saya sarankan untuk mengikuti semuanya.
 
 > Saya telah menyiapkan sebuah 'issue' di repositori ini sebagai daftar tambahan. Bila kalian: berasal dari Indonesia, memiliki interaksi organik, postingan yang menarik, dan bisa mempelajari perspektif yang baru dalam memandang kehidupan, kalian bisa menambahkannya sendiri melalui [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/issues/1) (diperlukan akun GitHub untuk menambahkannya).
+
