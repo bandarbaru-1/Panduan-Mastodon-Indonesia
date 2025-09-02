@@ -21,6 +21,8 @@ Selamat, kita sudah mengirim pesan DM ke pengguna lain! Postingan itu hanya bisa
   </div>
 </div>
 
+#
+
 Catatan tambahan:
 1. Bila ada pengguna lain yang membalas postingan kita, atau mengirim kita DM tetapi kita tida menerima notifikasi, buka halaman notifikasi, lalu klik *Notifikasi yang disaring (Filtered notifications)*. Klik tanda centang di atas untuk menerima-nya agar masuk ke notifikasi kita.
 
@@ -33,4 +35,5 @@ Catatan tambahan:
 </div>
 
 2. DM di Mastodon **tidaklah terenkripsi secara End-to-End**. Diupayakan untuk tidak mengirim pesan yang terlalu pribadi atau mengandung informasi pribadi atau sensitif melalui DM. Saya menyarankan untuk menggunakan aplikasi [Signal](https://signal.org/) [[Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)] [[iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)] yang memang didesain untuk percakapan 1-to-1 terenkripsi secara End-to-End.
+
 
