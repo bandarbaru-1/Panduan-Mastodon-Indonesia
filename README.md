@@ -1,11 +1,11 @@
 # Panduan Singkat Penggunaan Mastodon dalam Bahasa Indonesia
 
-Berikut adalah panduan singkat menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang mau bergabung di Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
+Ini adalah panduan singkat menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
 
-> Catatan: Setelah proses penulisan dan pengambilan tangkapan layar untuk panduan ini rampung, Mastodon [memperbarui antarmuka pengguna-nya](https://mastodon.social/@bandarbaru_1/114675314400411500), yang membuat sebagian tangkapan layar yang terdapat pada panduan ini memiliki perbedaan. Saya belum dapat menjamin jika saya dapat memperbarui tangkapan layar yang ada pada panduan ini, dan mohon pengertiannya apabila saya tidak dapat memperbarui seluruh tangkapan layar yang ada pada panduan ini. Saya harap kalian dapat memakluminya, dan masih dapat memahami dan mengikuti isi dari panduan ini.
+> Setelah proses penulisan dan pengambilan tangkapan layar untuk panduan ini rampung, Mastodon [memperbarui antarmuka pengguna-nya](https://mastodon.social/@bandarbaru_1/114675314400411500), yang membuat sebagian tangkapan layar yang terdapat pada panduan ini memiliki perbedaan. Saya belum dapat menjamin jika saya dapat memperbarui tangkapan layar yang ada pada panduan ini, dan mohon pengertiannya apabila saya tidak dapat memperbarui seluruh tangkapan layar yang ada pada panduan ini. Saya harap kalian dapat memakluminya, dan masih dapat memahami dan mengikuti isi dari panduan ini.
 
 Daftar Isi:
-1. Perkenalan Mastodon
+1. [Perkenalan Mastodon](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/01%20-%20Perkenalan%20Mastodon%20dalam%20Bahasa%20Indonesia.md)
 2. [Membuat Akun Mastodon](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/02%20-%20Membuat%20Akun%20Mastodon.md)
 3. [Membuat Postingan Baru](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/03%20-%20Membuat%20Postingan%20Baru.md)
 4. [Mengatur Tampilan dan Bahasa](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/04%20-%20Mengatur%20Aturan%20Tampilan%20dan%20Bahasa.md)
@@ -31,13 +31,14 @@ Daftar Isi:
 24. [Mengundang Teman (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/24%20-%20Mengundang%20Teman.md)
 25. [Migrasi Akun & Tutup Akun](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/25%20-%20Migrasi%20Akun%20dan%20Tutup%20Akun.md)
 26. [Penutup dan Dukung Mastodon](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/26%20-%20Penutup%20dan%20Dukung%20Mastodon.md)
-27. Catatan Ekstra
+
+Lihat juga [catatan ekstra](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/EXTRA.md) serta [log perubahan](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/CHANGELOG.md) pada panduan ini.
 
 #
 
 ### Tujuan Penulisan Panduan Ini:
 
-Tulisan ini tidak akan pernah diniatkan untuk sepenuhnya lengkap dan mencakup seluruh topik & fitur yang tersedia dan juga terlalu teknis, dengan harapan teman-teman yang akan dan baru bergabung, mudah memahami dan cepat menggunakan Mastodon tanpa perlu merasa repot.
+Tulisan ini tidak diniatkan untuk sepenuhnya lengkap dan mencakup seluruh topik & fitur yang tersedia dan pembahasan yang terlalu teknis, dengan harapan kalian yang akan dan baru bergabung, mudah memahami dan cepat menggunakan Mastodon tanpa perlu merasa repot.
 
 ### Mengenai Fediverse & ActivityPub:
 
@@ -47,7 +48,7 @@ Dalam penulisan ini, saya mencoba memposisikan diri sebagai orang pengguna Twitt
 
 Saya percaya, semakin lama pengguna betah dan bertahan di Mastodon, semakin sering juga pengguna tersebut akan familiar dengan istilah ActivityPub, Fediverse, desentralisasi, & terfederasi, dan mereka pelan-pelan akan mulai memahami arti dari istilah-istilah itu. Sebuah proses.
 
-Pembahasan mengenai penggunaan platform Fediverse selain Mastodon, seperti Misskey, PixelFed, Pleroma, GoToSocial, dsb., sayangnya tidak akan saya bahas pada tulisan ini. Terima kasih atas pengertiannya.
+Pembahasan mengenai penggunaan platform Fediverse selain Mastodon, seperti Misskey, PixelFed, Pleroma, GoToSocial, dsb., sayangnya tidak saya bahas pada panduan ini. Terima kasih atas pengertiannya.
 
 ### Bantuan Lanjutan:
 
@@ -66,9 +67,12 @@ Bila teman-teman ingin memerlukan bantuan & pertanyaan, teman-teman dapat melaku
 - [Memulai dengan Misskey](https://misskey-hub.net/id/docs/for-users/onboarding/) - Jika kamu menggunakan Misskey, panduan ini mencakup bagaimana menggunakan Misskey.
 
 Pada akhirnya, selamat datang di Mastodon! Selamat bergabung di dunia Fediverse!
-
 #
 
 Bila kalian menginstal aplikasi perpesanan instan [Signal](https://signal.org/), kalian bisa bergabung dengan [Komunitas Fediverse Indonesia](https://signal.group/#CjQKINjXT-uuZV44qCUOdilmkp980Bne2nP0MtcmukwFcYCEEhCF1C1gTHI4fJizrghJ1kJY) di Signal.
 
+
 Aplikasi Signal dapat diunduh melalui [Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) (Android)  & [App Store](https://apps.apple.com/us/app/signal-private-messenger/id874139669) (iOS).
+#
+
+Panduan ini bersifat sumber terbuka. Siapa saja bisa berkontribusi untuk mengembangkan dan memperbaiki panduan ini.
