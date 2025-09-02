@@ -26,7 +26,7 @@ Namun karena kita membuat akun di peladen mastodon.social, berikut adalah aturan
 3. **Tidak ada hasutan kekerasan atau promosi ideologi kekerasan**.
 4. **Tidak ada pelecehan, penggelapan blok, dogpiling, atau doxxing orang lain**. Jangan membuat onar.
 5. **Jangan berbagi informasi yang dikenal secara luas sebagai salah dan menyesatkan**.
-6. **Konten yang dibuat oleh orang lain harus dikaitkan, dan penggunaan AI generatif harus diungkapkan**. Bila kita memposting sebuah konten yang di ambil dari sumber internet atau lainnya (bukan milikmu), usahakan untuk memberikan kredit. Bila kita memposting konten yang di-generate oleh AI, berikan pernyataan yang jelas di dalam postingan bahwa konten tersebut adalah konten yang dibuat oleh AI.
+6. **Konten yang dibuat oleh orang lain harus dikaitkan, dan penggunaan AI generatif harus diungkapkan**. Bila kita memposting sebuah konten yang di ambil dari sumber internet atau lainnya (bukan milik kita), usahakan untuk memberikan kredit. Bila kita memposting konten yang di-generate oleh AI, berikan pernyataan yang jelas di dalam postingan bahwa konten tersebut adalah konten yang dibuat oleh AI.
 
 Setelah kita membaca dan merasa tidak keberatan dengan peraturan tersebut, kilk ***Accept*** untuk melanjutkan.
 
@@ -115,6 +115,7 @@ Dan selesai, akun Mastodon kita siap digunakan!
     <img src="../assets/02pic-13.jpg" width="30%" />
   </div>
 </div>
+
 
 
 
