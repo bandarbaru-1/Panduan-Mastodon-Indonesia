@@ -1,7 +1,7 @@
 # Migrasi Akun dan Tutup Akun
-Adakalanya sebuah peladen Mastodon mengumumkan untuk berhenti beroperasi, sedangkan kamu sudah membangun suatu basis pengikut yang cukup lumayan.
+Adakalanya sebuah peladen Mastodon mengumumkan untuk berhenti beroperasi, sedangkan kalian sudah membangun suatu basis pengikut yang cukup lumayan.
 
-Jika terjadi demikian, mungkin kamu bisa berpikir untuk **pindah dan buat akun ke peladen Mastodon lain yang masih aktif dan kembali membangun basis pengikut di sana**. Dan cara ini adalah **cara yang termudah**.
+Jika terjadi demikian, mungkin kalian bisa berpikir untuk **pindah dan buat akun ke peladen Mastodon lain yang masih aktif dan kembali membangun basis pengikut di sana**. Dan cara ini adalah **cara yang termudah**.
 
 **Ini juga mengapa saya masih merekomendasikan untuk bergabung di peladen utama yang besar, terutama yang langsung dikelola oleh lembaga utama seperti mastodon.social**, karena adanya jaminan keberlangsungan keberadaan peladen oleh lembaga utama tsb.
 
@@ -9,7 +9,7 @@ Peladen yang dikelola oleh komunitas misalnya, pada satu titik jika terjadi kend
 
 Namun ini juga bukan berarti bahwa peladen mastodon.social juga tidak akan mengalami hal yang sama juga di masa mendatang.
 
-Kembali ke pembahasan migrasi akun: Tetapi ada cara lain. Alih-alih membangun basis pengikut lagi di peladen baru, mengapa tidak basis pengikutmu yang sudah ada juga ikut pindah ke peladen baru?
+Kembali ke pembahasan migrasi akun, tetapi ada cara lain. Alih-alih membangun basis pengikut lagi di peladen baru, mengapa tidak basis pengikut kalian yang sudah ada juga ikut pindah ke peladen baru?
 
 Mastodon memiliki fitur migrasi akun untuk memindahkan akun kalian dari peladen sebelumnya ke peladen yang baru yang kalian telah pilih.
 
@@ -139,7 +139,7 @@ Proses migrasi akun selesai, dan sekarang kita sudah berada di akun yang baru.
 
 ## Menghapus Akun
 
-Apakah kalian berpikir untuk hapus akun? Mungkin kamu merasa ada defiensi dan mempertimbangkan hal-hal lain untuk meninggalkan dan berhenti menggunakan Mastodon. Daripada meninggalkan Mastodon dengan masih meninggalkan postingan atau gambar yang dapat menjadi masalah privasi bagi kamu di masa mendatang, lebih baik kamu menghapus akunmu sebelum meninggalkan dan berhenti menggunakan Mastodon.
+Apakah kalian berpikir untuk hapus akun? Mungkin kalian merasa ada defiensi dan mempertimbangkan hal-hal lain untuk meninggalkan dan berhenti menggunakan Mastodon. Daripada meninggalkan Mastodon dengan masih meninggalkan postingan atau gambar yang dapat menjadi masalah privasi bagi kalian di masa mendatang, lebih baik kalian menghapus akun sebelum meninggalkan dan berhenti menggunakan Mastodon.
 
 Baik, di beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halaman berikutnya, klik panel menu -> klik *Akun (Account)* -> scroll ke bawah, di bagian *Hapus akun (Delete account)*, klik ***memproses ini (proceed here)***.
 
@@ -154,7 +154,7 @@ Baik, di beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halam
 </div>
 
 
-Perhatikan catatannya: **akun yang telah dihapus tidak dapat diaktifkan kembali**, **nama pengguna yang telah dihapus tidak dapat lagi digunakan ketika kamu mencoba mendaftar kembali**, seluruh data kamu di Mastodon terhapus, namun data kamu mungkin masih tersimpan di peladen lain (terutama jika peladen itu menggunakan sistem yang berbeda dari Mastodon).
+Perhatikan catatannya: **akun yang telah dihapus tidak dapat diaktifkan kembali**, **nama pengguna yang telah dihapus tidak dapat lagi digunakan ketika kalian mencoba mendaftar kembali**, seluruh data kalian di Mastodon terhapus, namun data kalian mungkin masih tersimpan di peladen lain (terutama jika peladen itu menggunakan sistem yang berbeda dari Mastodon).
 
 <div align="center">
   <div>
@@ -165,6 +165,7 @@ Perhatikan catatannya: **akun yang telah dihapus tidak dapat diaktifkan kembali*
 Jika sudah, masukkan kata sandi, dan klik ***Hapus akun (Delete account)***.
 
 Selesai. Semoga bisa bertemu lagi di lain waktu dan di lain kesempatan.
+
 
 
 
