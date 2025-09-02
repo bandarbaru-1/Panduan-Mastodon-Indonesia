@@ -1,7 +1,10 @@
 # Mengutip Postingan Pengguna Lain (Quote Repost)
-Mungkin kamu bingung, bagaimana untuk mengutip postingan pengguna lain (quote repost atau quote retweet (QRT) dalam istilah Twitter)?
 
-Untuk saat ini, pengguna menggunakan cara tradisional untuk mengutip postingan orang lain. Misalnya, kamu ingin quote repost postingan berikut. Maka di bagian bawah postingan, klik titik tiga di pojok kanan bawah, klik *salin tautan ke kiriman (copy link to post)*. Maka, otomatis tautan postingan tersebut akan tersalin ke clipboard kita.
+> Per tulisan ini diterbitkan, dilaporkan Mastodon sedang mengembangkan fitur Quote Repost secara native. Halaman ini akan saya perbarui setelah fitur tersebut telah dirilis.
+
+Mungkin kalian bingung, bagaimana untuk mengutip postingan pengguna lain (quote repost atau quote retweet (QRT) dalam istilah Twitter)?
+
+Untuk saat ini, pengguna menggunakan cara tradisional untuk mengutip postingan orang lain. Misalnya, kita ingin quote repost postingan berikut. Maka di bagian bawah postingan, klik titik tiga di pojok kanan bawah, klik *salin tautan ke kiriman (copy link to post)*. Maka, otomatis tautan postingan tersebut akan tersalin ke clipboard kita.
 
 <div align="center">
   <div>
@@ -36,3 +39,4 @@ Jangan khawatir! Karena di aplikasi pihak ke-tiga misalnya, postingan tsb. akan 
     <img src="../assets/13pic-06.jpg" width="30%" />
   </div>
 </div>
+
