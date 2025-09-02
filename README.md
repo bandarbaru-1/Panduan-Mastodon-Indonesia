@@ -36,11 +36,11 @@ Lihat juga [catatan ekstra](https://github.com/bandarbaru-1/Panduan-Mastodon-Ind
 
 #
 
-### Tujuan Penulisan Panduan Ini:
+### Tujuan Penulisan Panduan Ini
 
 Tulisan ini tidak diniatkan untuk sepenuhnya lengkap dan mencakup seluruh topik & fitur yang tersedia dan pembahasan yang terlalu teknis, dengan harapan kalian yang akan dan baru bergabung, mudah memahami dan cepat menggunakan Mastodon tanpa perlu merasa repot.
 
-### Mengenai Fediverse & ActivityPub:
+### Mengenai Fediverse & ActivityPub
 
 Mastodon adalah bagian dari jaringan Fediverse yang saling terhubung melalui protokol ActivityPub, dan saya menyadari bahwa langsung menjelaskan ini semua ke pengguna baru dapat menyebabkan overwhelming dan akan terkesan terlalu teknis bagi mereka.
 
@@ -50,7 +50,7 @@ Saya percaya, semakin lama pengguna betah dan bertahan di Mastodon, semakin seri
 
 Pembahasan mengenai penggunaan platform Fediverse selain Mastodon, seperti Misskey, PixelFed, Pleroma, GoToSocial, dsb., sayangnya tidak saya bahas pada panduan ini. Terima kasih atas pengertiannya.
 
-### Bantuan Lanjutan:
+### Bantuan Lanjutan
 
 Bila teman-teman ingin memerlukan bantuan & pertanyaan, teman-teman dapat melakukan hal berikut:
 - Baca kembali referensi dan petunjuk pada halaman panduan ini.
@@ -59,7 +59,7 @@ Bila teman-teman ingin memerlukan bantuan & pertanyaan, teman-teman dapat melaku
 - atau, jangan sungkan-sungkan meminta bantuan dari sesama pengguna Indonesia, yang salah satu atau beberapa diantaranya dapat kalian lihat di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md). Semoga, diantara mereka bisa senang hati membantu kalian.
 
 
-### Referensi Lanjutan:
+### Referensi Lanjutan
 - [Mastodon documentation](https://docs.joinmastodon.org/) - Website dokumentasi resmi oleh Mastodon gGmbH, lembaga yang mengembangkan Mastodon (dalam Bahasa Inggris).
 - [Introducing the Fediverse: a New Era of Social Media](https://vimeo.com/1091422023/38d0c45f69) - Video singkat mengenai Fediverse secara umum (dalam Bahasa Inggris).
 - [Fedi.Tips - An Unofficial Guide to Mastodon and the Fediverse](https://fedi.tips/) - Website panduan komunitas mengenai Fediverse, ActivityPub, dan Mastodon dengan pembahasan yang menyeluruh (dalam Bahasa Inggris).
@@ -76,8 +76,10 @@ Aplikasi Signal dapat diunduh melalui [Play Store](https://play.google.com/store
 #
 
 Panduan ini masih jauh dari kesempurnaan, serta panduan ini juga bersifat sumber terbuka. Siapa saja bisa berkontribusi untuk mengembangkan dan memperbaiki panduan ini. Siapa saja juga bisa mengadaptasi isi dari panduan ini ke dalam berbagai media (atau mengembangkannya sendiri), tanpa perlu seizin dari saya sebagai penulis dari panduan ini.
+#
 
 <a rel="me" href="https://mastodon.social/@bandarbaru_1" style="opacity: 0;"> </a>
+
 
 
 
