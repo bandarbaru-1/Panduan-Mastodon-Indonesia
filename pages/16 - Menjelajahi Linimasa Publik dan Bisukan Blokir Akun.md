@@ -1,5 +1,5 @@
 # Menjelajahi Linimasa Publik (Public Timeline), dan Bisukan & Blokir Akun
-Baik di panduan ini, kita akan mempelajari bagaimana menjelajahi linimasa publik di Mastodon.
+Baik di tulisan ini, kita akan mempelajari bagaimana menjelajahi linimasa publik di Mastodon.
 
 Setidaknya di mastodon.social terdapat 2 linimasa publik: *Trending* & *Feed Yang Sedang Berlangsung/Linimasa Publik (Public Timeline)*.
 
@@ -22,7 +22,7 @@ Linimasa ini juga berisi sedikit permainan algoritma, di mana postingan-postinga
 
 Linimasa ini sangat didominasi oleh postingan-postingan luar negeri dan bahasa asing, mengingat ramainya pengguna mastodon.social dari luar negeri.
 
----
+## Linimasa Publik
 
 *Feed Yang Sedang Berlangsung/Linimasa Publik (Public Timeline)* adalah linimasi yang berisi postingan-postingan yang telah kita set aturannya di pengaturan, bahasa mana yang mau ditampilkan.
 
@@ -37,9 +37,11 @@ Terdapat 3 tab:
 - ***Server Lain (Other servers)***. Postingan yang berasal dari peladen-peladen yang terhubung dengan mastodon.social, termasuk postingan dari [Threads (oleh Instagram)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/21%20-%20Berinteraksi%20Dengan%20Pengguna%20Threads.md) dan juga [Bluesky (dari akun yang dijembatani)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/22%20-%20Berinteraksi%20Dengan%20Pengguna%20Bluesky.md) akan muncul di sini.
 - ***Semua (All)***. Menggabungkan keduanya.
 
+## Bisukan, Blokir, Laporkan Akun
+
 Mengingat mastodon.social adalah peladen utama, sayangnya linimasa publik ini sudah dicemari oleh akun-akun bot yang tidak jelas. Nah sekarang kita akan bersihkan semuanya, masuklah kita ke bagian bisukan & blokir akun.
 
-Pertama klik titik tiga di bagian bawah post, terserah, kamu bisa ***Bisukan (Mute)***, ***Blokir (Blokir)***, dan ***Laporkan (Report)***.
+Pertama klik titik tiga di bagian bawah post, terserah, kita bisa ***Bisukan (Mute)***, ***Blokir (Blokir)***, dan ***Laporkan (Report)***.
 
 <div align="center">
   <div>
@@ -48,7 +50,7 @@ Pertama klik titik tiga di bagian bawah post, terserah, kamu bisa ***Bisukan (Mu
   </div>
 </div>
 
----
+#
 
 Beberapa saran daftar cek mengenai bisu-blokir-lapor):
 1. Bila itu adalah akun berita recehan/SEO, akun jualan/promosi, akun bot, dsb. -> ***Bisukan (Mute)***
@@ -80,3 +82,4 @@ Dalam membisukan akun, kita juga bisa klik *Show options*, dan pilih berapa dura
 </div>
 
 Namun jika kita overwhelm untuk memblokir satu per satu akun yang tidak jelas, maka saranku adalah untuk menghindari linimasa publik Bahasa Indonesia ini. Kita masih bisa mencari mutual dan postingan-postingan yang menarik melalui [akun-akun yang saya rekomendasikan di sini](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Kamu%20Ikuti.md).
+
