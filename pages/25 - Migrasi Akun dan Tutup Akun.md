@@ -87,11 +87,11 @@ Baik, di beranda, klik panel menu -> klik *Pengaturan (Preferences)* -> di halam
 
 <div align="center">
   <div>
-    <img src="../assets/25pic-01.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25pic-02.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25pic-03.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25pic-04.jpg" style="display:inline-block; width:30%; margin:15px;"/>
-    <img src="../assets/25pic-05.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-22.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-23.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-24.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-25.jpg" style="display:inline-block; width:30%; margin:15px;"/>
+    <img src="../assets/25pic-26.jpg" style="display:inline-block; width:30%; margin:15px;"/>
   </div>
 </div>
 
@@ -100,12 +100,13 @@ Perhatikan catatannya: **akun yang telah dihapus tidak dapat diaktifkan kembali*
 
 <div align="center">
   <div>
-    <img src="../assets/25pic-06.jpg" width="30%" />
+    <img src="../assets/25pic-27.jpg" width="30%" />
   </div>
 </div>
 
 Jika sudah, masukkan kata sandi, dan klik ***Hapus akun (Delete account)***.
 
 Selesai. Semoga bisa bertemu lagi di lain waktu dan di lain kesempatan.
+
 
 
