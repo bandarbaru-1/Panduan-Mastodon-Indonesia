@@ -59,7 +59,7 @@ Dan di bagian *Sensitive Content*. Terdapat 3 pilihan:
   </div>
 </div>
 
-Penjelasan mengenai konten yang ditandai sensitif atau tanda peringatan dapat disimak di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/10%20-%20Membuat%20Postingan%20Dengan%20Tanda%20Peringatan.md).
+> Penjelasan mengenai konten yang ditandai sensitif atau tanda peringatan dapat disimak di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/10%20-%20Membuat%20Postingan%20Dengan%20Tanda%20Peringatan.md).
 
 Jika sudah klik ***Save Changes***.
 
@@ -70,5 +70,6 @@ Panduan berikutnya akan sepenuhnya menggunakan antarmuka tampilan Bahasa Indones
     <img src="../assets/04pic-09.jpg" width="30%" />
   </div>
 </div>
+
 
 
