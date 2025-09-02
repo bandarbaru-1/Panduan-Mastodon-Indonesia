@@ -75,10 +75,11 @@ Bila kalian menginstal aplikasi perpesanan instan [Signal](https://signal.org/),
 Aplikasi Signal dapat diunduh melalui [Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) (Android)  & [App Store](https://apps.apple.com/us/app/signal-private-messenger/id874139669) (iOS).
 #
 
-Panduan ini masih jauh dari kesempurnaan, serta panduan ini juga bersifat sumber terbuka. Siapa saja bisa berkontribusi untuk mengembangkan dan memperbaiki panduan ini. Siapa saja juga bisa mengadaptasi isi dari panduan ini ke dalam berbagai media (atau mengembangkannya sendiri), tanpa perlu seizin dari saya sebagai penulis dari panduan ini.
+Panduan ini masih jauh dari kesempurnaan, serta panduan ini juga bersifat sumber terbuka. Siapapun bisa berkontribusi untuk mengembangkan dan memperbaiki panduan ini. Siapapun juga bisa mengadaptasi isi dari panduan ini ke dalam berbagai media (atau mengembangkannya sendiri), tanpa perlu seizin dari saya sebagai penulis dari panduan ini.
 #
 
 <a rel="me" href="https://mastodon.social/@bandarbaru_1" style="opacity: 0;"> </a>
+
 
 
 
