@@ -8,7 +8,7 @@ Sekarang kita akan bermain di pengaturan. Klik menu -> *Preferences*.
   </div>
 </div>
 
-Saat kita ke menu pengaturan, kita pertama menuju ke menu pengaturan *Appearance*.
+Saat kita ke menu pengaturan, kita pertama diarahkan menuju ke menu pengaturan *Appearance*.
 
 <div align="center">
   <div>
@@ -24,7 +24,7 @@ Mari kita ubah interface language ke **Bahasa Indonesia**, time zone ke **(GMT+0
   </div>
 </div>
 
-*Advanced Web Interface* dapat diaktifkan jika kamu mengakses Mastodon melalui peramban di komputer dan ingin mendapatkan tampilan seperti TweetDeck.
+*Advanced Web Interface* dapat diaktifkan jika kita mengakses Mastodon melalui peramban di komputer dan ingin mendapatkan tampilan seperti TweetDeck.
 
 <div align="center">
   <div>
@@ -40,7 +40,7 @@ Contoh tampilan *Advanced Web Interface* di peramban komputer:
   </div>
 </div>
 
-*Animation And Accessibility, Discovery, & Confirmation Dialogs* dapat kamu atur sesuai selera.
+*Animation And Accessibility, Discovery, & Confirmation Dialogs* dapat kita atur sesuai selera.
 
 <div align="center">
   <div>
@@ -49,7 +49,7 @@ Contoh tampilan *Advanced Web Interface* di peramban komputer:
 </div>
 
 Dan di bagian *Sensitive Content*. Terdapat 3 pilihan:
-- ***Hide media marked as sensitive***. Konten yang telah ditandai sebagai sensitif akan muncul namun di-sensor. Kamu mesti klik gambar tersebut untuk melihat-nya tanpa sensor.
+- ***Hide media marked as sensitive***. Konten yang telah ditandai sebagai sensitif akan muncul namun di-sensor. Kita mesti klik gambar tersebut untuk melihat-nya tanpa sensor.
 - ***Always show media***. Konten sensitif akan muncul tanpa sensor.
 - ***Always hide media***. Konten sensitif tidak akan muncul di linimasa.
 
@@ -70,3 +70,4 @@ Panduan berikutnya akan sepenuhnya menggunakan antarmuka tampilan Bahasa Indones
     <img src="../assets/04pic-09.jpg" width="30%" />
   </div>
 </div>
+
