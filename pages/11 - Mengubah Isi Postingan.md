@@ -1,7 +1,7 @@
 # Mengubah Isi Postingan
 Salah satu fitur di Mastodon adalah, kita bisa mengubah isi postingan yang sudah terposting. Mari melihat postingan yang telah terposting.
 
-Klik ikon titik tiga, lalu klik *Edit*.
+Klik ikon menu pada sebuah postingan, lalu klik *Edit*.
 
 <div align="center">
   <div>
@@ -10,7 +10,7 @@ Klik ikon titik tiga, lalu klik *Edit*.
   </div>
 </div>
 
-Di sini kita bisa mengubah isi postingan. Jika sudah, klik *Perbarui (Update)*.
+Di sini kita bisa mengubah isi postingan. Jika sudah, klik ***Perbarui (Update)***.
 
 <div align="center">
   <div>
@@ -34,4 +34,5 @@ Mengingat nature Mastodon yang terdesentralisasi, terkadang jika kita mengubah p
 Kapan sebaiknya menggunakan *edit*? Saat perubahan postingan itu terlalu minim, hanya memperbaiki typo, dan juga postingan tersebut sudah di-like atau di-boost (repost atau retweet dalam istilah Twitter).
 
 Kapan sebaiknya menggunakan hapus dan draf ulang (*delete & re-draft*)? Saat perubahan postingan itu terlalu signifikan, memperbaiki tatanan kata, dan juga postingan tersebut belum di-like atau di-boost (repost atau retweet dalam istilah Twitter) sama sekali oleh pengguna lain.
+
 
