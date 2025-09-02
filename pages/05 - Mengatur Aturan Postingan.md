@@ -41,7 +41,9 @@ Pilihan *who can quote*, ini seperti QRT atau Quote Retweet di Twitter, namun ki
   </div>
 </div>
 
-Sebagai catatan, pengaturan who can quote ini dimaksudkan untuk fitur QRT di Mastodon yang baru akan hadir di versi Mastodon yang akan datang. Namun pengaturan ini sudah dihadirkan sebagai bentuk persiapan. Penjelasan mengenai sistem QRT di Mastodon saat ini dapat disimak di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/13%20-%20Mengutip%20Postingan%20Pengguna%20Lain.md).
+Sebagai catatan, pengaturan who can quote ini dimaksudkan untuk fitur QRT di Mastodon yang baru akan hadir di versi Mastodon yang akan datang. Namun pengaturan ini sudah dihadirkan sebagai bentuk persiapan.
+
+> Penjelasan mengenai sistem QRT di Mastodon saat ini dapat disimak di [halaman berikut](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/13%20-%20Mengutip%20Postingan%20Pengguna%20Lain.md).
 
 Pengaturan *linimasa publik (public timelines)*, ini opsional, kita bisa centang Bahasa Indonesia dan kita dapat membuka linimasa publik Bahasa Indonesia. Linimasa yang hanya memunculkan setiap postingan publik dari berbagai peladen yang di-set ke Bahasa Indonesia (mungkin ada postingan bahasa asing yang nyelip, mungkin pengaturan postingan yang mereka gunakan salah).
 
@@ -62,6 +64,7 @@ Jika sudah, scroll ke bawah lalu klik ***Simpan Perubahan (Save changes)***.
     <img src="../assets/05pic-07.jpg" width="30%" />
   </div>
 </div>
+
 
 
 
