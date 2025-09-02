@@ -34,7 +34,7 @@ Di sini kita tulis *judul (title)* saringannya. Atur durasi penyaringan pada kol
 Untuk penjelasan pilihan *filter action*:
 - ***Sembunyikan dengan peringatan (Hide with a warning)***. Dengan memilih ini, maka postingan yang mengandung kata yang disaring akan diberikan tanda peringatan atau trigger warning yang kita mesti membuka isi lengkap postingan secara manual.
 - ***Hide media with a warning***. Dengan memilih ini, maka postingan dengan gambar yang mengandung kata yang disaring akan di-blur, dan kita mesti klik gambarnya untuk membuka sensor-nya.
-- ***Sembunyikan seluruhnya (Hide completely)***. Dengan memilih ini, maka seluruh postingan yang mengandung kata yang disaring, akan sepenuhnya disembunyikan. Tidak akan pernah tampil di layar kaca-mu.
+- ***Sembunyikan seluruhnya (Hide completely)***. Dengan memilih ini, maka seluruh postingan yang mengandung kata yang disaring, akan sepenuhnya disembunyikan. Tidak akan pernah tampil di layar kaca.
 
 <div align="center">
   <div>
@@ -50,4 +50,5 @@ Mari kita isi kata kunci postingan yang akan kita saring, dan jika sudah, klik *
     <img src="../assets/07pic-08.jpg" width="30%" />
   </div>
 </div>
+
 
