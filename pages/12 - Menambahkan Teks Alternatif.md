@@ -1,7 +1,7 @@
 # Menambahkan Teks Alternatif (ALT Text)
 Salah satu fitur lainnya adalah menambahkan teks alternatif (ALT Text). Apa itu teks alternatif (ALT Text)? Sederhananya adalah teks yang menemani gambar tersebut, untuk menjelaskan lebih detail ada apa pada gambar tersebut. Penggunaan teks ALT sangatlah didorong di Mastodon, untuk membantu pengguna yang memiliki gangguan pengelihatan untuk memahami isi dari gambar yang kita unggah.
 
-Buat postingan baru dengan mengunggah sebuah gambar -> klik pada indikator 'ALT', lalu masukkan deskripsi-nya -> klik *Done* dan *Postingan (Post)* untuk memposting gambar tersebut.
+Buat postingan baru dengan mengunggah sebuah gambar -> klik pada indikator 'ALT', lalu masukkan deskripsi-nya -> klik *Done* dan ***Postingan (Post)*** untuk memposting gambar tersebut.
 
 <div align="center">
   <div>
@@ -33,7 +33,7 @@ Catatan: Secara bawaan, Mastodon akan menampilkan pesan peringatan jika kita tid
   </div>
 </div>
 
-Jika kita memilih untuk tidak menggunakan teks ALT, dan ingin menghapus pesan seperti ini, sebelum memposting gambar tanpa teks ALT, kita bisa klik panel menu -> klik *Pengaturan (Settings)* -> scroll ke bawah -> matikan centang *Show confirmation dialog before posting media without alt text* -> lalu klik *Simpan perubahan (Save changes)*.
+Jika kita memilih untuk tidak menggunakan teks ALT, dan ingin menghapus pesan seperti ini, sebelum memposting gambar tanpa teks ALT, kita bisa klik panel menu -> klik *Pengaturan (Settings)* -> scroll ke bawah -> matikan centang *Show confirmation dialog before posting media without alt text* -> lalu klik ***Simpan perubahan (Save changes)***.
 
 <div align="center">
   <div>
@@ -42,4 +42,5 @@ Jika kita memilih untuk tidak menggunakan teks ALT, dan ingin menghapus pesan se
     <img src="../assets/12pic-10.jpg" width="30%" />
   </div>
 </div>
+
 
