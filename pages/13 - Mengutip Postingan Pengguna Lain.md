@@ -13,7 +13,7 @@ Untuk saat ini, pengguna menggunakan cara tradisional untuk mengutip postingan o
   </div>
 </div>
 
-Kemudian kita buat post baru, tempel (atau klik paste) di kolom postingan, kemudian tinggal tambahkan narasi sesuai keinginan kita, lalu klik *Terbitkan (post)*.
+Kemudian kita buat post baru, tempel (atau klik paste) di kolom postingan, kemudian tinggal tambahkan narasi sesuai keinginan kita, lalu klik *Postingan (post)*.
 
 <div align="center">
   <div>
@@ -39,4 +39,5 @@ Jangan khawatir! Karena di aplikasi pihak ke-tiga misalnya, postingan tsb. akan 
     <img src="../assets/13pic-06.jpg" width="30%" />
   </div>
 </div>
+
 
