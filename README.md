@@ -4,7 +4,7 @@
 
 <div align="center">
   <div>
-    <img src="../assets/wordmark-black-text.png" width="30%" />
+    <img src="assets/wordmark-black-text.png" width="30%" />
   </div>
 </div>
 
