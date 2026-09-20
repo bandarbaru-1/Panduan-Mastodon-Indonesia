@@ -2,6 +2,12 @@
 
 > Panduan ini adalah panduan yang tidak resmi (*unofficial guides*) yang disusun oleh ["Bandar Baru"](https://mastodon.social/@bandarbaru_1) untuk memperkenalkan Mastodon kepada khalayak pengguna internet di Indonesia yang disesuaikan dengan bahasa yang lebih dimengerti. Panduan ini sama sekali tidak memiliki keterikatan, berafiliasi, serta didukung resmi dengan Mastodon GmbH serta Mastodon Inc. (*This project is not affiliated with or endorsed by Mastodon GmbH or Mastodon Inc.*).
 
+<div align="center">
+  <div>
+    <img src="../assets/wordmark-black-text.png" width="30%" />
+  </div>
+</div>
+
 Ini adalah panduan sederhana menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
 
 > Setelah proses penulisan dan pengambilan tangkapan layar untuk panduan ini rampung, Mastodon [memperbarui antarmuka pengguna-nya](https://mastodon.social/@bandarbaru_1/114675314400411500), yang membuat sebagian tangkapan layar yang terdapat pada panduan ini memiliki perbedaan. Mohon pengertiannya apabila saya tidak dapat memperbarui seluruh tangkapan layar yang ada pada panduan ini. Saya harap kalian dapat memakluminya, dan masih dapat memahami dan mengikuti isi dari panduan ini.
