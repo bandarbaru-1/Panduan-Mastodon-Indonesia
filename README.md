@@ -74,7 +74,7 @@ Bila teman-teman ingin memerlukan bantuan & pertanyaan, teman-teman dapat melaku
 - [Introducing the Fediverse: a New Era of Social Media](https://vimeo.com/1091422023/38d0c45f69) - Video singkat mengenai Fediverse secara umum (dalam Bahasa Inggris).
 - [Fedi.Tips - An Unofficial Guide to Mastodon and the Fediverse](https://fedi.tips/) - Website panduan komunitas mengenai Fediverse, ActivityPub, dan Mastodon dengan pembahasan yang menyeluruh (dalam Bahasa Inggris).
 - [Privacy and Security on Mastodon](https://www.privacyguides.org/articles/2025/07/15/mastodon-privacy-and-security/) - Website panduan komunitas mengenai Mastodon dengan pembahasan yang lebih ringkas (dalam Bahasa Inggris).
-- [Memulai dengan Misskey](https://misskey-hub.net/id/docs/for-users/onboarding/) - Jika anda menggunakan Misskey, panduan ini mencakup bagaimana menggunakan Misskey.
+- [Memulai dengan Misskey](https://misskey-hub.net/id/docs/for-users/onboarding/) - Jika kalian menggunakan Misskey, panduan ini mencakup bagaimana menggunakan Misskey.
 
 Pada akhirnya, selamat datang di Mastodon! Selamat bergabung di dunia Fediverse!
 #

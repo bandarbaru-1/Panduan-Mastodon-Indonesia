@@ -24,6 +24,8 @@ Linimasa ini sangat didominasi oleh postingan-postingan luar negeri dan bahasa a
 
 ## Linimasa Publik
 
+> Catatan: Fitur Linimasa Public (Public Timeline) **sudah tidak tersedia** di peladen mastodon.social & mastodon.online.
+
 *Feed Yang Sedang Berlangsung/Linimasa Publik (Public Timeline)* adalah linimasi yang berisi postingan-postingan yang telah kita set aturannya di pengaturan, bahasa mana yang mau ditampilkan.
 
 <div align="center">

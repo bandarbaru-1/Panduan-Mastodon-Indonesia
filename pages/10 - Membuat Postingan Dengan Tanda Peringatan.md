@@ -1,5 +1,5 @@
-# Membuat Postingan Dengan Tanda Peringatan (Trigger Warning)
-Baik, sekarang kita akan mempelajari bagaimana membuat postingan dengan tanda peringatan (atau trigger warning). Ini sangat berfungsi agar postingan dengan konten-konten sensitif dapat disembunyikan, tidak langsung tampil secara gamblang di hadapan pengguna lain yang tidak siap melihat konten-konten seperti itu.
+# Membuat Postingan Dengan Tanda Peringatan (Trigger/Content Warning)
+Baik, sekarang kita akan mempelajari bagaimana membuat postingan dengan tanda peringatan (atau trigger/content warning). Ini sangat berfungsi agar postingan dengan konten-konten sensitif dapat disembunyikan, tidak langsung tampil secara gamblang di hadapan pengguna lain yang tidak siap melihat konten-konten seperti itu.
 
 Tidak cuma konten sensitif saja, tetapi kita bisa mengaplikasikan tanda peringatan ini ke seluruh jenis konten-konten yang kita unggah yang dirasa sensitif bagi sebagian pengikut kita.
 

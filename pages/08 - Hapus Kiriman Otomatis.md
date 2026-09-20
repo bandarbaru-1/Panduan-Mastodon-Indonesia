@@ -1,4 +1,7 @@
 # Hapus Kiriman Otomatis (Automated Post Deletion)
+
+> **Jangan** mengaktifkan fitur ini bila akun kalian sudah lama aktif, dan sudah memiliki ratusan-ribu postingan! Mengaktifkan fitur ini dapat menghapus sebagian besar postingan kalian selama ini!
+
 Salah satu fitur di Mastodon untuk menambah privasi adalah fitur *hapus kiriman otomatis (automated post deletion)*. Setelah dalam jangka waktu yang kita tentukan, maka postingan kita akan dihapus secara otomatis oleh sistem. kita bisa mengaktifkan fitur ini secara manual.
 
 Di menu pengaturan, klik ikon menu di pojok kanan atas, lalu klik *Hapus kiriman otomatis (Automated post deletion)*.
