@@ -2,7 +2,7 @@
 
 Walaupun Mastodon dan Threads (oleh Instagram) berbeda platform, namun kedua platform ini semestinya sudah dapat saling terhubung melalui protokol ActivityPub yang sama-sama digunakan oleh kedua platform tersebut.
 
-Jika akun kalian berada di peladen yang dikelola oleh lembaga Mastodon gGmbH (mastodon.social & mastodon.online) & fedi.my.id, peladen tersebut sudah terfederasi dengan Threads, dan semestinya kita bisa berinteraksi dengan pengguna yang berada di Threads.
+Jika akun kalian berada di peladen yang dikelola oleh lembaga Mastodon GmbH (mastodon.social & mastodon.online) & fedi.my.id, peladen tersebut sudah terfederasi dengan Threads, dan semestinya kita bisa berinteraksi dengan pengguna yang berada di Threads.
 
 Namun sayangnya, tidak semua peladen Mastodon yang dikelola oleh komunitas, ingin terfederasi dengan Threads, atas alasan [sederet kontroversi](https://www.google.com/search?q=meta+controversies&udm=14) yang dilakukan oleh Meta Platforms, Inc.
 
@@ -18,5 +18,5 @@ Pastikan pengguna tersebut sudah mengaktifkan fitur Fediverse di akun Threads me
 
 Bila mereka telah mengaktifkan fitur Fediverse namun akun mereka belum bisa terlihat di Mastodon, maka mintalah mereka untuk mention akun kita melalui Threads, memastikan akun Mastodon kita juga sudah muncul di Threads.
 
-Bila masih terdapat kendala, ada baiknya untuk menghubungi pengelola peladen (bila kalian berada di peladen selain yang dikelola oleh Mastodon gGmbH: mastodon.social & mastodon.online), dan tanyakan apakah peladen dapat berinteraksi dengan Threads atau tidak.
+Bila masih terdapat kendala, ada baiknya untuk menghubungi pengelola peladen (bila kalian berada di peladen selain yang dikelola oleh Mastodon GmbH: mastodon.social & mastodon.online), dan tanyakan apakah peladen dapat berinteraksi dengan Threads atau tidak.
 
