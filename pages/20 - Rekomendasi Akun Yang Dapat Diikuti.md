@@ -41,33 +41,34 @@ Maka, berikut ini adalah kumpulan akun yang saya sendiri kumpulkan, kurasi, dan 
 
 Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian Mastodon (atau klik **↗** untuk menuju ke profil langsung bila akun kalian berada di peladen mastodon.social):
 - `@Mastodon@mastodon.social` (Akun resmi lembaga Mastodon GmbH) [↗](https://mastodon.social/@Mastodon)
-- `@Gargron@mastodon.social` (Pendiri Mastodon)
-- `@sandycorzeta@misskey.id` (Pengelola peladen misskey.id)
-- `@kimiamania@pegelinux.top` (Pengelola peladen fedi.my.id)
-- `@bandarbaru_1@mastodon.social`
-- `@testeraphy@fedi.my.id`
-- `@hiki@fedi.nocojima.xyz`
-- `@LLENN08@misskey.id`
-- `@solune_@mastodon.social`
-- `@yoursaturn@fedi.my.id`
-- `@mebeforeyou01@mastodon.social`
-- `@linerly@mstdn.plus`
-- `@rieaglenest@blorbo.social`
-- `@rdnmz@sharkey.world`
-- `@kekavigi@mas.to`
-- `@gombang@social.nancengka.com`
-- `@BlackyCats@misskey.id`
-- `@ivan_achlaqullah@ohai.social`
-- `@aku@anakmanis.com`
-- `@crse2100@misskey.design`
-- `@domswp@misskey.id`
-- `@ccoremapd@fedi.my.id`
-- `@62ch_@misskey.id`
-- `@ufal@misskey.id`
-- `@aulia@mementomori.social`
-- `@Lizahadiz@writing.exchange`
-- `@drahardja@sfba.social`
-- `@meutiafaradilla@mas.to`
+- `@Gargron@mastodon.social` (Pendiri Mastodon) [↗](https://mastodon.social/@Gargron)
+- `@sandycorzeta@misskey.id` (Pengelola peladen misskey.id) [↗](https://mastodon.social/@sandycorzeta@misskey.id)
+- `@kimiamania@pegelinux.top` (Pengelola peladen fedi.my.id) [↗](https://mastodon.social/@kimiamania@pegelinux.top)
+- `@bandarbaru_1@mastodon.social` [↗](https://mastodon.social/@bandarbaru_1)
+- `@testeraphy@fedi.my.id` [↗](https://mastodon.social/@testeraphy@fedi.my.id)
+- `@hiki@fedi.nocojima.xyz` [↗](https://mastodon.social/@hiki@fedi.nocojima.xyz)
+- `@LLENN08@misskey.id` [↗](https://mastodon.social/@LLENN08@misskey.id)
+- `@alyssathelady@mastodon.social` [↗](https://mastodon.social/@alyssathelady)
+- `@mebeforeyou01@mastodon.social` [↗](https://mastodon.social/@mebeforeyou01)
+- `@yoursaturn@fedi.my.id [↗](https://mastodon.social/@yoursaturn@fedi.my.id)
+- `@solune_@mastodon.social` [↗](https://mastodon.social/@solune_)
+- `@linerly@mstdn.plus` [↗](https://mastodon.social/@linerly@mstdn.plus)
+- `@rieaglenest@blorbo.social` [↗](https://mastodon.social/@rieaglenest@blorbo.social)
+- `@rdnmz@sharkey.world` [↗](https://mastodon.social/@rdnmz@sharkey.world)
+- `@kekavigi@mas.to` [↗](https://mastodon.social/@kekavigi@mas.to)
+- `@BlackyCats@misskey.id` [↗](https://mastodon.social/@BlackyCats@misskey.id)
+- `@crse2100@misskey.design` [↗](https://mastodon.social/@crse2100@misskey.design)
+- `@qa_tester@chara.social` [↗](https://mastodon.social/@qa_tester@chara.social)
+- `@aku@anakmanis.com` [↗](https://mastodon.social/@aku@anakmanis.com)
+- `@gombang@social.nancengka.com` [↗](https://mastodon.social/@gombang@social.nancengka.com)
+- `@ivan_achlaqullah@ohai.social` [↗](https://mastodon.social/@ivan_achlaqullah@ohai.social)
+- `@domswp@misskey.id` [↗](https://mastodon.social/@domswp@misskey.id)
+- `@ccoremapd@fedi.my.id` [↗](https://mastodon.social/@ccoremapd@fedi.my.id)
+- `@62ch_@misskey.id` [↗](https://mastodon.social/@62ch_@misskey.id)
+- `@ufal@misskey.id` [↗](https://mastodon.social/@ufal@misskey.id)
+- `@aulia@mementomori.social` [↗](https://mastodon.social/@aulia@mementomori.social)
+- `@drahardja@sfba.social` [↗](https://mastodon.social/@drahardja@sfba.social)
+- `@meutiafaradilla@mas.to` [↗](https://mastodon.social/@meutiafaradilla@mas.to)
 
 > Kalian tidak perlu mengikuti semuanya, secukupnya saja. Tetapi jika ingin linimasa beranda kalian tetap ramai, terutama untuk yang baru saja bergabung di Mastodon, saya sarankan untuk mengikuti semuanya.
 
