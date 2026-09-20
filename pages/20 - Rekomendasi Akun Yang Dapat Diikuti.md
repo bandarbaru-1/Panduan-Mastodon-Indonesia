@@ -50,7 +50,7 @@ Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian M
 - `@LLENN08@misskey.id` [↗](https://mastodon.social/@LLENN08@misskey.id)
 - `@alyssathelady@mastodon.social` [↗](https://mastodon.social/@alyssathelady)
 - `@mebeforeyou01@mastodon.social` [↗](https://mastodon.social/@mebeforeyou01)
-- `@yoursaturn@fedi.my.id [↗](https://mastodon.social/@yoursaturn@fedi.my.id)
+- `@yoursaturn@fedi.my.id` [↗](https://mastodon.social/@yoursaturn@fedi.my.id)
 - `@solune_@mastodon.social` [↗](https://mastodon.social/@solune_)
 - `@linerly@mstdn.plus` [↗](https://mastodon.social/@linerly@mstdn.plus)
 - `@rieaglenest@blorbo.social` [↗](https://mastodon.social/@rieaglenest@blorbo.social)
