@@ -1,6 +1,6 @@
 # Panduan Sederhana Penggunaan Mastodon Dalam Bahasa Indonesia
 
-> Panduan ini adalah panduan yang tidak resmi (*unofficial guides*) yang disusun oleh ["Bandar Baru"](https://mastodon.social/@bandarbaru_1) untuk memperkenalkan Mastodon kepada khalayak pengguna internet di Indonesia yang disesuaikan dengan bahasa dan kontekstual yang lebih dimengerti. Panduan ini sama sekali **tidak memiliki keterikatan, berafiliasi, serta didukung resmi** oleh Mastodon GmbH serta Mastodon Inc. (***This project is not affiliated with or endorsed by Mastodon GmbH or Mastodon Inc.***). Baik Mastodon GmbH serta Mastodon Inc. tidak memiliki kontrol dan tanggung jawab editorial terhadap isi tulisan pada panduan ini.
+> Panduan ini adalah panduan yang tidak resmi (*unofficial guides*) yang disusun oleh ["Bandar Baru"](https://mastodon.social/@bandarbaru_1) untuk memperkenalkan Mastodon kepada khalayak pengguna internet di Indonesia yang disesuaikan dengan bahasa dan kontekstual yang lebih dimengerti. Panduan ini sama sekali **tidak** memiliki keterikatan, berafiliasi, serta didukung resmi oleh Mastodon GmbH serta Mastodon Inc. (***This project is not affiliated with or endorsed by Mastodon GmbH or Mastodon Inc.***). Tulisan dalam panduan ini sepenuhnya merupakan pandangan penulis. Baik Mastodon GmbH serta Mastodon Inc. tidak memiliki kontrol dan tanggung jawab editorial terhadap isi tulisan pada panduan ini.
 
 <div align="center">
   <div>
