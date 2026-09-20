@@ -1,8 +1,10 @@
 # Panduan Sederhana Penggunaan Mastodon Dalam Bahasa Indonesia
 
+> Panduan ini adalah panduan yang tidak resmi (*unofficial guides*) yang disusun oleh ["Bandar Baru"](https://mastodon.social/@bandarbaru_1) untuk memperkenalkan Mastodon kepada khalayak pengguna internet di Indonesia yang disesuaikan dengan bahasa yang lebih dimengerti. Panduan ini sama sekali tidak memiliki keterikatan, berafiliasi, serta didukung resmi dengan Mastodon GmbH serta Mastodon Inc. (*This project is not affiliated with or endorsed by Mastodon GmbH or Mastodon Inc.*).
+
 Ini adalah panduan sederhana menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
 
-> Setelah proses penulisan dan pengambilan tangkapan layar untuk panduan ini rampung, Mastodon [memperbarui antarmuka pengguna-nya](https://mastodon.social/@bandarbaru_1/114675314400411500), yang membuat sebagian tangkapan layar yang terdapat pada panduan ini memiliki perbedaan. Saya belum dapat menjamin jika saya dapat memperbarui tangkapan layar yang ada pada panduan ini, dan mohon pengertiannya apabila saya tidak dapat memperbarui seluruh tangkapan layar yang ada pada panduan ini. Saya harap kalian dapat memakluminya, dan masih dapat memahami dan mengikuti isi dari panduan ini.
+> Setelah proses penulisan dan pengambilan tangkapan layar untuk panduan ini rampung, Mastodon [memperbarui antarmuka pengguna-nya](https://mastodon.social/@bandarbaru_1/114675314400411500), yang membuat sebagian tangkapan layar yang terdapat pada panduan ini memiliki perbedaan. Mohon pengertiannya apabila saya tidak dapat memperbarui seluruh tangkapan layar yang ada pada panduan ini. Saya harap kalian dapat memakluminya, dan masih dapat memahami dan mengikuti isi dari panduan ini.
 
 Daftar Isi:
 1. [Perkenalan Mastodon dalam Bahasa Indonesia](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/01%20-%20Perkenalan%20Mastodon%20dalam%20Bahasa%20Indonesia.md)
@@ -60,11 +62,11 @@ Bila teman-teman ingin memerlukan bantuan & pertanyaan, teman-teman dapat melaku
 
 
 ### Referensi Lanjutan
-- [Mastodon documentation](https://docs.joinmastodon.org/) - Website dokumentasi resmi oleh Mastodon gGmbH, lembaga yang mengembangkan Mastodon (dalam Bahasa Inggris).
+- [Mastodon documentation](https://docs.joinmastodon.org/) - Website dokumentasi resmi oleh Mastodon GmbH, lembaga yang mengembangkan Mastodon (dalam Bahasa Inggris).
 - [Introducing the Fediverse: a New Era of Social Media](https://vimeo.com/1091422023/38d0c45f69) - Video singkat mengenai Fediverse secara umum (dalam Bahasa Inggris).
 - [Fedi.Tips - An Unofficial Guide to Mastodon and the Fediverse](https://fedi.tips/) - Website panduan komunitas mengenai Fediverse, ActivityPub, dan Mastodon dengan pembahasan yang menyeluruh (dalam Bahasa Inggris).
 - [Privacy and Security on Mastodon](https://www.privacyguides.org/articles/2025/07/15/mastodon-privacy-and-security/) - Website panduan komunitas mengenai Mastodon dengan pembahasan yang lebih ringkas (dalam Bahasa Inggris).
-- [Memulai dengan Misskey](https://misskey-hub.net/id/docs/for-users/onboarding/) - Jika kamu menggunakan Misskey, panduan ini mencakup bagaimana menggunakan Misskey.
+- [Memulai dengan Misskey](https://misskey-hub.net/id/docs/for-users/onboarding/) - Jika anda menggunakan Misskey, panduan ini mencakup bagaimana menggunakan Misskey.
 
 Pada akhirnya, selamat datang di Mastodon! Selamat bergabung di dunia Fediverse!
 #
