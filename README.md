@@ -34,7 +34,7 @@ Daftar Isi:
 17. [Panduan Sederhana Akun Privat (Private Account)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/17%20-%20Panduan%20Sederhana%20Akun%20Privat.md)
 18. [Menggunakan Aplikasi Pihak Ketiga (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/18%20-%20Menggunakan%20Aplikasi%20Pihak%20Ketiga.md)
 19. [Membangun Lingkup Sosial Media Yang Sehat](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/19%20-%20Membangun%20Lingkup%20Sosial%20Media%20Yang%20Sehat.md)
-20. [Rekomendasi Akun Yang Kamu Dapat Ikuti (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md)
+20. [Membuat Collections dan Rekomendasi Akun Yang Kamu Dapat Ikuti (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/20%20-%20Membuat%20Collections%20dan%20Rekomendasi%20Akun%20Yang%20Dapat%20Diikuti.md)
 21. [Berinteraksi Dengan Pengguna Threads (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/21%20-%20Berinteraksi%20Dengan%20Pengguna%20Threads.md)
 22. [Berinteraksi Dengan Pengguna Bluesky (Opsional)](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/22%20-%20Berinteraksi%20Dengan%20Pengguna%20Bluesky.md)
 23. [Tautan di Bio dan Verifikasi Akun](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/23%20-%20Tautan%20di%20Bio%20dan%20Verifikasi%20Akun.md)
