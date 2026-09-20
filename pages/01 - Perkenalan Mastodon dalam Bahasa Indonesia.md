@@ -16,7 +16,7 @@ Mengapa Mastodon?:
 - Bersifat terdesentralisasi dan terfederasi, membentuk jaringan antar jaringan ([bukan blockchain/cryptocurrency/web3](https://fedi.tips/does-mastodon-or-the-fediverse-use-ads-or-trackers-or-algorithms-or-blockchain-or-cryptocurrency-or-anything-annoying-like-that/)).
 - Individu pegiat TI dan komunitas dapat membentuk dan menyediakan layanan Mastodon sendiri (self-hosting).
 
-Karena sifatnya yang terdesentralisasi itulah, Mastodon tidak hanya disediakan dan dikelola oleh Mastodon gGmbH (lembaga kolektif yang mengembangkan Mastodon) saja, namun juga disediakan berbagai peladen lainnya dan dikelola oleh berbagai individu dan komunitas, yang kalian bisa lihat daftarnya di [sini](https://joinmastodon.org/servers).
+Karena sifatnya yang terdesentralisasi itulah, Mastodon tidak hanya disediakan dan dikelola oleh Mastodon GmbH (lembaga kolektif yang mengembangkan Mastodon) saja, namun juga disediakan berbagai peladen lainnya dan dikelola oleh berbagai individu dan komunitas, yang kalian bisa lihat daftarnya di [sini](https://joinmastodon.org/servers).
 
 Meskipun terdesentralisasi, hal ini tidak membatasi pengguna hanya dapat berinteraksi dengan pengguna di dalam sebuah peladen saja, namun pengguna bisa berinteraksi dengan berbagai pengguna di berbagai peladen luar yang saling terhubung.
 
