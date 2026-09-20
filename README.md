@@ -4,9 +4,11 @@
 
 <div align="center">
   <div>
-    <img src="assets/wordmark-black-text.png" width="30% margin="100%"/>
+    <img src="assets/wordmark-black-text.png" width="30%"/>
   </div>
 </div>
+
+<h1></h1>
 
 Ini adalah panduan sederhana menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
 
