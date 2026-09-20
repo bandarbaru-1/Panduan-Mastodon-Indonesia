@@ -1,28 +1,66 @@
-# Rekomendasi Akun Yang Dapat Diikuti (Opsional)
+# Membuat Collections dan Rekomendasi Akun Yang Dapat Diikuti (Opsional)
 
-Berikut ini adalah kumpulan akun yang saya sendiri kumpulkan, kurasi, dan rekomendasikan untuk diikuti. Beberapa kumpulan akun berikut Berbahasa Indonesia (beberapa diantaranya juga campur dan/atau didominasi dengan Bahasa Inggris), memiliki interaksi organik, postingan yang menarik, dan bisa mempelajari perspektif yang baru dalam memandang kehidupan.
+Collections adalah sebuah fitur yang dapat menambahkan akun-akun yang kita kurasi (bisa itu akun yang menurut kalian menarik sesuai topik, atau bahkan mutualan circle kalian) yang dapat kita bagikan, serta pengguna lain bisa mengikuti daftar akun-akun yang kita kurasi tersebut.
 
-Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian Mastodon:
-- `@Mastodon@mastodon.social` (Akun resmi lembaga Mastodon gGmbH)
+Berikut adalah sebuah contoh daftar Collections yang disusun oleh Gargron, berisi kumpulan akun-akun seni yang berada di Mastodon yang beliau kurasikan.
+
+<div align="center">
+  <div>
+    <img src="../assets/20pic-01.jpg" width="30%" />
+  </div>
+</div>
+
+[**Artists of Mastodon** by Gargron](https://mastodon.social/collections/116777306758391615)
+
+Kita bisa membuat Collections sendiri, dengan mengklik bilah menu, lalu klik *Collections*.
+
+<div align="center">
+  <div>
+    <img src="../assets/20pic-02.jpg" width="30%" />
+  </div>
+</div>
+
+Di sini, kita bisa membuat daftar akunnya dengan mengklik *New Collection*, mulai masukkan nama-nama akun yang mau ditambahkan. Ketika sudah selesai, klik *Continue* lalu kita bisa menambahkan judul daftar collections, serta deskripsinya, topic hashtag, bahasa, visibilitas daftar (public atau unlist), kemudian content warning bila daftar tersebut memuat muatan yang sensitif.
+
+Selesai, klik *Create Collection*
+
+<div align="center">
+  <div>
+    <img src="../assets/20pic-03.jpg" width="30%" />
+    <img src="../assets/20pic-04.jpg" width="30%" />
+    <img src="../assets/20pic-05.jpg" width="30%" />
+    <img src="../assets/20pic-06.jpg" width="30%" />
+  </div>
+</div>
+
+#
+
+Tentu, fitur Collections masih jauh dari kesempurnaan, seperti kita tidak bisa menambahkan akun yang mematikan [discoverability-nya](https://github.com/bandarbaru-1/Panduan-Mastodon-Indonesia/blob/main/pages/06%20-%20Mengatur%20Privasi%20Akun.md), serta akun-akun yang berada di peladen non-Mastodon, seperti Misskey, GTS, dsb.
+
+Maka, berikut ini adalah kumpulan akun yang saya sendiri kumpulkan, kurasi, dan rekomendasikan untuk diikuti. Beberapa kumpulan akun berikut Berbahasa Indonesia (beberapa diantaranya juga campur dan/atau didominasi dengan Bahasa Inggris), memiliki interaksi organik, postingan yang menarik, dan bisa mempelajari perspektif yang baru dalam memandang kehidupan.
+
+Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian Mastodon (atau klik **↗** untuk menuju ke profil langsung bila akun kalian berada di peladen mastodon.social):
+- `@Mastodon@mastodon.social` (Akun resmi lembaga Mastodon GmbH) [↗](https://mastodon.social/@Mastodon)
 - `@Gargron@mastodon.social` (Pendiri Mastodon)
 - `@sandycorzeta@misskey.id` (Pengelola peladen misskey.id)
 - `@kimiamania@pegelinux.top` (Pengelola peladen fedi.my.id)
 - `@bandarbaru_1@mastodon.social`
-- `@rmdzn@hub.rmdzn.web.id`
-- `@kekavigi@mas.to`
-- `@gombang@social.nancengka.com`
-- `@a_anisanoviana_k@mastodon.social`
+- `@testeraphy@fedi.my.id`
+- `@hiki@fedi.nocojima.xyz`
+- `@LLENN08@misskey.id`
+- `@solune_@mastodon.social`
+- `@yoursaturn@fedi.my.id`
+- `@mebeforeyou01@mastodon.social`
 - `@linerly@mstdn.plus`
 - `@rieaglenest@blorbo.social`
-- `@hiki@kinosekai.xyz`
-- `@ganbold@misskey.id`
+- `@rdnmz@sharkey.world`
+- `@kekavigi@mas.to`
+- `@gombang@social.nancengka.com`
 - `@BlackyCats@misskey.id`
 - `@ivan_achlaqullah@ohai.social`
-- `@testeraphy@ktem.eu.org`
 - `@aku@anakmanis.com`
 - `@crse2100@misskey.design`
 - `@domswp@misskey.id`
-- `@LLENN08@misskey.id`
 - `@ccoremapd@fedi.my.id`
 - `@62ch_@misskey.id`
 - `@ufal@misskey.id`
