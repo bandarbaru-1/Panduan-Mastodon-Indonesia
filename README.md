@@ -8,7 +8,7 @@
   </div>
 </div>
 
-<h1></h1>
+<p></p>
 
 Ini adalah panduan sederhana menggunakan Mastodon dalam Bahasa Indonesia, yang saya tulis untuk kalian yang ingin bergabung dan menggunakan Mastodon dengan pendekatan yang tidak begitu teknis, serta mudah dipahami.
 
