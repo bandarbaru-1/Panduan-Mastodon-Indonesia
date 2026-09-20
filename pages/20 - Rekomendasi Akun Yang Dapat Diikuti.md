@@ -39,7 +39,7 @@ Tentu, fitur Collections masih jauh dari kesempurnaan, seperti kita tidak bisa m
 
 Maka, berikut ini adalah kumpulan akun yang saya sendiri kumpulkan, kurasi, dan rekomendasikan untuk diikuti. Beberapa kumpulan akun berikut Berbahasa Indonesia (beberapa diantaranya juga campur dan/atau didominasi dengan Bahasa Inggris), memiliki interaksi organik, postingan yang menarik, dan bisa mempelajari perspektif yang baru dalam memandang kehidupan.
 
-Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian Mastodon (atau klik **↗** untuk menuju ke profil langsung bila akun kalian berada di peladen mastodon.social):
+Silahkan salin-tempel (copy-paste) nama-nama pengguna berikut di bar pencarian Mastodon (atau klik **↗** untuk langsung menuju ke profil bila akun kalian berada di peladen mastodon.social):
 - `@Mastodon@mastodon.social` (Akun resmi lembaga Mastodon GmbH) [↗](https://mastodon.social/@Mastodon)
 - `@Gargron@mastodon.social` (Pendiri Mastodon) [↗](https://mastodon.social/@Gargron)
 - `@sandycorzeta@misskey.id` (Pengelola peladen misskey.id) [↗](https://mastodon.social/@sandycorzeta@misskey.id)
